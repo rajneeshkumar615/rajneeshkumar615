@@ -53,21 +53,6 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
----
-
-### 🧠 Projects & Highlights  
-
-#### 🤖 **AI Assistant (Python)**
-> A powerful personal AI Assistant that automates PC tasks, performs web searches, manages files, and executes commands using natural language.  
-> 🧩 Features automation, web integration, and speech recognition.  
-> 🔗 [Live Demo](#) | 💻 [Repository](#)
-
-#### 🌐 **MERN Stack Projects**
-> Built full-stack web applications using React, Express, Node.js, and MongoDB.  
-> Implemented features like CRUD operations, authentication, and API integration.  
-> 🔗 [Portfolio Projects](#)
-
----
 
 ### 📊 GitHub Stats  
 
@@ -84,7 +69,7 @@
   <a href="https://linkedin.com/in/rajneesh-kumar" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://instagram.com/im.rajneesh757" target="_blank">
+  <a href="https://instagram.com/im.rajneesh615" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="uchihaitachi0612005@gmail.comm">
