@@ -2,9 +2,11 @@
 
 # Rajneesh Kumar
 
-### Backend-Focused Full Stack Developer · Final Year BCA
+### Backend-Focused Full Stack Developer | Node.js • Express • MongoDB | 460+ DSA Problems
 
-<p>
+<br/>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/rajneesh-kumar615">
     <img src="https://img.shields.io/badge/LinkedIn-rajneesh--kumar615-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -16,11 +18,11 @@
   </a>
 </p>
 
-<p>
-  <a href="https://leetcode.com/">
+<p align="center">
+  <a href="https://leetcode.com/u/Rajneesh_Kumar615/">
     <img src="https://img.shields.io/badge/LeetCode-160%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
-  <a href="https://www.geeksforgeeks.org/">
+  <a href="https://www.geeksforgeeks.org/user/uchihaitacipvy/">
     <img src="https://img.shields.io/badge/GeeksforGeeks-300%2B%20Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
   </a>
 </p>
@@ -40,11 +42,27 @@ I'm a final-year BCA student building production-grade web applications with a f
 
 ---
 
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rajneeshkumar615&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="175" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajneeshkumar615&layout=compact&theme=tokyonight&hide_border=true" height="175" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=rajneeshkumar615&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-### Languages
+<br/>
+
+**Languages**
 
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -55,7 +73,9 @@ I'm a final-year BCA student building production-grade web applications with a f
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-### Frontend
+<br/>
+
+**Frontend**
 
 <p>
   <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
@@ -64,7 +84,9 @@ I'm a final-year BCA student building production-grade web applications with a f
   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </p>
 
-### Backend
+<br/>
+
+**Backend**
 
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
@@ -74,7 +96,9 @@ I'm a final-year BCA student building production-grade web applications with a f
   <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" />
 </p>
 
-### Database
+<br/>
+
+**Database**
 
 <p>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
@@ -82,28 +106,40 @@ I'm a final-year BCA student building production-grade web applications with a f
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
-### Cloud & Services
+<br/>
+
+**Cloud & Services**
 
 <p>
   <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB%20Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-Basics-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS%20Basics-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
 </p>
 
-### Tools & Infrastructure
+<br/>
+
+**Tools & Infrastructure**
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Thunder%20Client-7B2FBE?style=for-the-badge&logo=thunderclient&logoColor=white" />
+  <img src="https://img.shields.io/badge/Thunder_Client-7B2FBE?style=for-the-badge&logo=thunder-client&logoColor=white" />
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
 </p>
 
+<br/>
+
 </div>
+
+---
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajneeshkumar615&theme=tokyonight" />
+</p>
 
 ---
 
@@ -147,24 +183,13 @@ I'm a final-year BCA student building production-grade web applications with a f
 | **GeeksforGeeks** | 300+ | Core DSA, OS, DBMS concepts |
 
 <p>
-  <a href="https://leetcode.com/">
+  <a href="https://leetcode.com/u/Rajneesh_Kumar615/">
     <img src="https://img.shields.io/badge/LeetCode-View%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
-  <a href="https://www.geeksforgeeks.org/">
+  <a href="https://www.geeksforgeeks.org/user/uchihaitacipvy/">
     <img src="https://img.shields.io/badge/GeeksforGeeks-View%20Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
   </a>
 </p>
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=rajneeshkumar615&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajneeshkumar615&layout=compact&theme=tokyonight&hide_border=true" height="170" />
-
-</div>
 
 ---
 
