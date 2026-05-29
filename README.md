@@ -1,85 +1,128 @@
+<div align="center">
 
+# Rajneesh Kumar
 
-<h1 align="center">Rajneesh Kumar</h1>
-<h3 align="center">💻 Full Stack (MERN) Developer | AI & Automation Enthusiast | Java & Python Coder</h3>
+**Backend-Focused Full Stack Developer · Final Year BCA**
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rajneesh-kumar&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-rajneesh--kumar615-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/rajneesh-kumar615)
+[![LeetCode](https://img.shields.io/badge/LeetCode-160%2B%20Problems-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-300%2B%20Problems-2F8D46?style=flat&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/)
+[![Email](https://img.shields.io/badge/Email-kumarajneesh008%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:kumarajneesh008@gmail.com)
 
----
-
-### 🚀 About Me  
-
-- 🧠 Passionate **Full Stack Developer (MERN)** and **AI Developer** with a deep love for automation and intelligent systems.  
-- 🤖 Built a **Python-based AI Assistant** capable of performing multiple smart tasks — searching the web, controlling files, automating workflows, and managing PC operations efficiently.  
-- 💻 Strong foundation in **C**, **Java**, and **Python**, with a keen interest in scalable backend systems and clean UI design.  
-- 🧩 Experienced in integrating APIs, working with **Redux**, **Axios**, and **EJS** for smooth web experiences.  
-- 🌍 Constantly learning new tools and exploring modern tech to make complex tasks simpler and smarter.  
+</div>
 
 ---
 
-### 🧰 Tech Stack & Tools  
+## About Me
 
-#### 💻 Languages:
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+I'm a final-year BCA student building production-grade web applications with a focus on backend engineering. I design RESTful APIs, architect server-side systems, and ship full-stack products end to end.
 
-#### ⚙️ Frameworks & Libraries:
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![EJS](https://img.shields.io/badge/EJS-20232A?style=for-the-badge&logo=ejs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Axios](https://img.shields.io/badge/Axios-671DDF?style=for-the-badge&logo=axios&logoColor=white)
-
-#### 🗄️ Database & Cloud:
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-181717?style=for-the-badge&logo=github&logoColor=white)
-
-#### 🧩 Tools & Platforms:
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-
-
-### 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajneesh-kumar&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajneesh-kumar&layout=compact&theme=tokyonight" alt="Top Languages" height="160px"/>
-</p>
+- **Currently building:** [StayNest](#-featured-project--staynest) — a property rental platform with authentication, cloud image management, and review workflows
+- **Backend stack:** Node.js · Express.js · MongoDB · Mongoose · REST APIs
+- **Problem solving:** 160+ LeetCode · 300+ GeeksforGeeks — focused on arrays, trees, graphs, and dynamic programming
+- **Looking for:** SDE internships and backend/full-stack roles at product companies
 
 ---
 
-### 📫 Connect With Me  
+## Tech Stack
 
-<p align="center">
-  <a href="https://linkedin.com/in/rajneesh-kumar" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/im.rajneesh615" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="uchihaitachi0612005@gmail.comm">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/rajneesh-kumar" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+**Languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-API-FF6C37?style=flat)
+
+**Database**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat)
+
+**Auth & Sessions**
+
+![Passport.js](https://img.shields.io/badge/Passport.js-34E27A?style=flat&logo=passport&logoColor=black)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
+
+**Infrastructure & Tools**
+
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat&logo=cloudinary&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+
+**Templating**
+
+![EJS](https://img.shields.io/badge/EJS-B4CA65?style=flat)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 
 ---
 
-<h3 align="center">✨ "Building the Future, One Line of Code at a Time" ✨</h3>
+## 🏠 Featured Project — StayNest
+
+> A full-stack property rental platform inspired by Airbnb, built with Node.js, Express, and MongoDB.
+
+**What it does:** Hosts can list properties with photos. Guests can browse listings, leave reviews, and manage bookings — all behind a secure authentication layer.
+
+### Technical Highlights
+
+| Area | Implementation |
+|---|---|
+| **Authentication** | Passport.js local strategy · session-based auth · protected routes |
+| **Image Uploads** | Cloudinary integration via Multer middleware |
+| **Data Layer** | MongoDB + Mongoose with relational-style references (User → Listing → Review) |
+| **API Design** | RESTful routes — full CRUD for listings and reviews |
+| **Security** | Input validation · authorization checks · session management |
+| **UX** | Connect-flash for feedback · responsive Bootstrap UI |
+
+### Core Stack
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Passport.js](https://img.shields.io/badge/Passport.js-34E27A?style=flat)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat&logo=cloudinary&logoColor=white)
+![EJS](https://img.shields.io/badge/EJS-B4CA65?style=flat)
+
+[![GitHub Repo](https://img.shields.io/badge/View%20on%20GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/RajneeshKumar08/StayNest)
+
+---
+
+## Competitive Programming
+
+Consistent practice across two platforms, focused on building strong fundamentals in data structures and algorithms.
+
+| Platform | Solved | Focus Areas |
+|---|---|---|
+| **LeetCode** | 160+ problems | Arrays, Linked Lists, Trees, DP, Graphs |
+| **GeeksforGeeks** | 300+ problems | Core DSA, OS, DBMS concepts |
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=flat&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/)
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+![Rajneesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RajneeshKumar08&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RajneeshKumar08&layout=compact&theme=github_dark&hide_border=true)
+
+</div>
+
+---
+
+## Contact
+
+I'm open to SDE internship opportunities and backend/full-stack roles. Feel free to reach out.
+
+- **Email:** [kumarajneesh008@gmail.com](mailto:kumarajneesh008@gmail.com)
+- **LinkedIn:** [linkedin.com/in/rajneesh-kumar615](https://linkedin.com/in/rajneesh-kumar615)
+- **GitHub:** [@RajneeshKumar08](https://github.com/RajneeshKumar08)
