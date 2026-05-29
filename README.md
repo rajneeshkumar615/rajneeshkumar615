@@ -2,12 +2,28 @@
 
 # Rajneesh Kumar
 
-**Backend-Focused Full Stack Developer · Final Year BCA**
+### Backend-Focused Full Stack Developer · Final Year BCA
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-rajneesh--kumar615-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/rajneesh-kumar615)
-[![LeetCode](https://img.shields.io/badge/LeetCode-160%2B%20Problems-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-300%2B%20Problems-2F8D46?style=flat&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/)
-[![Email](https://img.shields.io/badge/Email-kumarajneesh008%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:kumarajneesh008@gmail.com)
+<p>
+  <a href="https://www.linkedin.com/in/rajneesh-kumar615">
+    <img src="https://img.shields.io/badge/LinkedIn-rajneesh--kumar615-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:kumarajneesh008@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-kumarajneesh008-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/rajneeshkumar615">
+    <img src="https://img.shields.io/badge/GitHub-rajneeshkumar615-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p>
+  <a href="https://leetcode.com/">
+    <img src="https://img.shields.io/badge/LeetCode-160%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-300%2B%20Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  </a>
+</p>
 
 </div>
 
@@ -17,93 +33,127 @@
 
 I'm a final-year BCA student building production-grade web applications with a focus on backend engineering. I design RESTful APIs, architect server-side systems, and ship full-stack products end to end.
 
-- **Currently building:** [StayNest](#-featured-project--staynest) — a property rental platform with authentication, cloud image management, and review workflows
-- **Backend stack:** Node.js · Express.js · MongoDB · Mongoose · REST APIs
-- **Problem solving:** 160+ LeetCode · 300+ GeeksforGeeks — focused on arrays, trees, graphs, and dynamic programming
+- **Currently building:** [StayNest](#-featured-project--staynest) — a full-stack property rental platform with auth, cloud storage, and review workflows
+- **Core expertise:** Node.js · Express.js · MongoDB · REST APIs
+- **Problem solving:** 160+ LeetCode · 300+ GeeksforGeeks — arrays, trees, graphs, dynamic programming
 - **Looking for:** SDE internships and backend/full-stack roles at product companies
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
-**Languages**
+<div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+### Languages
 
-**Backend**
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-API-FF6C37?style=flat)
+### Frontend
 
-**Database**
+<p>
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+</p>
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat)
+### Backend
 
-**Auth & Sessions**
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Passport.js-34E27A?style=for-the-badge&logo=passport&logoColor=black" />
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" />
+</p>
 
-![Passport.js](https://img.shields.io/badge/Passport.js-34E27A?style=flat&logo=passport&logoColor=black)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
+### Database
 
-**Infrastructure & Tools**
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
 
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat&logo=cloudinary&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+### Cloud & Services
 
-**Templating**
+<p>
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB%20Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-Basics-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+</p>
 
-![EJS](https://img.shields.io/badge/EJS-B4CA65?style=flat)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+### Tools & Infrastructure
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Thunder%20Client-7B2FBE?style=for-the-badge&logo=thunderclient&logoColor=white" />
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+</p>
+
+</div>
 
 ---
 
 ## 🏠 Featured Project — StayNest
 
-> A full-stack property rental platform inspired by Airbnb, built with Node.js, Express, and MongoDB.
+> A full-stack property rental platform built with Node.js, Express.js, MongoDB, EJS, Passport.js, and Cloudinary.
 
-**What it does:** Hosts can list properties with photos. Guests can browse listings, leave reviews, and manage bookings — all behind a secure authentication layer.
+**What it does:** Hosts can create and manage property listings with photo uploads. Guests can browse listings, leave reviews, and interact with hosts — all behind a secure, session-based authentication layer.
 
 ### Technical Highlights
 
 | Area | Implementation |
 |---|---|
-| **Authentication** | Passport.js local strategy · session-based auth · protected routes |
-| **Image Uploads** | Cloudinary integration via Multer middleware |
-| **Data Layer** | MongoDB + Mongoose with relational-style references (User → Listing → Review) |
-| **API Design** | RESTful routes — full CRUD for listings and reviews |
-| **Security** | Input validation · authorization checks · session management |
-| **UX** | Connect-flash for feedback · responsive Bootstrap UI |
+| **Authentication & Authorization** | Passport.js local strategy · session-based auth · role-based route protection |
+| **Image Management** | Cloudinary integration via Multer — multi-image upload with cloud storage |
+| **Data Layer** | MongoDB + Mongoose · relational references: User → Listing → Review |
+| **API Design** | RESTful architecture · full CRUD for listings and reviews |
+| **Session & UX** | Express-session · connect-flash for feedback · responsive Bootstrap UI |
+| **Security** | Input validation · authorization middleware · sanitized user inputs |
 
 ### Core Stack
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Passport.js](https://img.shields.io/badge/Passport.js-34E27A?style=flat)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat&logo=cloudinary&logoColor=white)
-![EJS](https://img.shields.io/badge/EJS-B4CA65?style=flat)
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black" />
+  <img src="https://img.shields.io/badge/Passport.js-34E27A?style=for-the-badge&logo=passport&logoColor=black" />
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
+</p>
 
-[![GitHub Repo](https://img.shields.io/badge/View%20on%20GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/RajneeshKumar08/StayNest)
+[![View on GitHub](https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajneeshkumar615/StayNest)
 
 ---
 
 ## Competitive Programming
 
-Consistent practice across two platforms, focused on building strong fundamentals in data structures and algorithms.
-
-| Platform | Solved | Focus Areas |
+| Platform | Solved | Topics |
 |---|---|---|
-| **LeetCode** | 160+ problems | Arrays, Linked Lists, Trees, DP, Graphs |
-| **GeeksforGeeks** | 300+ problems | Core DSA, OS, DBMS concepts |
+| **LeetCode** | 160+ | Arrays, Linked Lists, Trees, DP, Graphs |
+| **GeeksforGeeks** | 300+ | Core DSA, OS, DBMS concepts |
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=flat&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/)
+<p>
+  <a href="https://leetcode.com/">
+    <img src="https://img.shields.io/badge/LeetCode-View%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-View%20Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  </a>
+</p>
 
 ---
 
@@ -111,9 +161,8 @@ Consistent practice across two platforms, focused on building strong fundamental
 
 <div align="center">
 
-![Rajneesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RajneeshKumar08&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RajneeshKumar08&layout=compact&theme=github_dark&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=rajneeshkumar615&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajneeshkumar615&layout=compact&theme=tokyonight&hide_border=true" height="170" />
 
 </div>
 
@@ -121,8 +170,8 @@ Consistent practice across two platforms, focused on building strong fundamental
 
 ## Contact
 
-I'm open to SDE internship opportunities and backend/full-stack roles. Feel free to reach out.
+Open to SDE internship opportunities and backend/full-stack roles at product companies.
 
 - **Email:** [kumarajneesh008@gmail.com](mailto:kumarajneesh008@gmail.com)
-- **LinkedIn:** [linkedin.com/in/rajneesh-kumar615](https://linkedin.com/in/rajneesh-kumar615)
-- **GitHub:** [@RajneeshKumar08](https://github.com/RajneeshKumar08)
+- **LinkedIn:** [linkedin.com/in/rajneesh-kumar615](https://www.linkedin.com/in/rajneesh-kumar615)
+- **GitHub:** [github.com/rajneeshkumar615](https://github.com/rajneeshkumar615)
