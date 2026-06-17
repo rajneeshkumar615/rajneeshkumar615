@@ -26,21 +26,10 @@
 
 ---
 
-<!-- TERMINAL-STYLE INTRO — unique touch, feels like a real dev console -->
+<!-- ANIMATED TERMINAL INTRO — actually renders, unlike raw ansi blocks -->
 <div align="center">
 
-```ansi
-[0;32mrajneesh@dev[0m:[0;34m~[0m$ whoami
-Backend-focused Full Stack Developer | BCA Final Year | India
-
-[0;32mrajneesh@dev[0m:[0;34m~[0m$ cat current_status.txt
-> Open to SDE Internships & Backend/Full-Stack roles
-> Building StayNest (MERN property rental platform)
-> Solving DSA daily — pattern first, code second
-
-[0;32mrajneesh@dev[0m:[0;34m~[0m$ echo $MOTTO
-"Write code that your future self can understand at 2 AM"
-```
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2800&pause=900&color=22C55E&background=0D111700&center=true&vCenter=true&width=820&lines=rajneesh%40dev%3A~%24+whoami;Backend-focused+Full+Stack+Developer+%7C+BCA+Final+Year+%7C+India;rajneesh%40dev%3A~%24+cat+status.txt;Open+to+SDE+Internships+%26+Backend%2FFull-Stack+roles;Currently+building+StayNest+%E2%80%94+MERN+rental+platform;rajneesh%40dev%3A~%24+echo+%24MOTTO;%22Write+code+your+future+self+understands+at+2+AM%22" />
 
 </div>
 
