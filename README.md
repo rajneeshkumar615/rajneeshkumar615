@@ -16,11 +16,31 @@
 
 <br/>
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-160%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Rajneesh_Kumar615/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-192%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Rajneesh_Kumar615/)
 &nbsp;
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-340%2B%20Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/uchihaitacipvy/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-327%2B%20Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/uchihaitacipvy/)
 &nbsp;
 [![Profile Views](https://komarev.com/ghpvc/?username=rajneeshkumar615&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/rajneeshkumar615)
+
+</div>
+
+---
+
+<!-- TERMINAL-STYLE INTRO — unique touch, feels like a real dev console -->
+<div align="center">
+
+```ansi
+[0;32mrajneesh@dev[0m:[0;34m~[0m$ whoami
+Backend-focused Full Stack Developer | BCA Final Year | India
+
+[0;32mrajneesh@dev[0m:[0;34m~[0m$ cat current_status.txt
+> Open to SDE Internships & Backend/Full-Stack roles
+> Building StayNest (MERN property rental platform)
+> Solving DSA daily — pattern first, code second
+
+[0;32mrajneesh@dev[0m:[0;34m~[0m$ echo $MOTTO
+"Write code that your future self can understand at 2 AM"
+```
 
 </div>
 
@@ -35,7 +55,7 @@ const rajneesh = {
   location          : "India 🇮🇳",
   coreStack         : ["Node.js", "Express.js", "MongoDB", "REST APIs"],
   currentlyBuilding : "StayNest — full-stack property rental platform",
-  problemSolving    : "160+ LeetCode  ·  340+ GeeksforGeeks  ·  500+ Total",
+  problemSolving    : "192+ LeetCode  ·  327+ GeeksforGeeks  ·  500+ Total",
   strongIn          : ["Arrays", "Trees", "Graphs", "Dynamic Programming", "Sliding Window"],
   lookingFor        : "SDE Internships & Backend / Full-Stack Roles",
   available         : true,
@@ -51,9 +71,28 @@ const rajneesh = {
 
 | 🧠 Problem Solver | 🛠️ Builder | 🎯 Achiever | 📚 Learner |
 |:---:|:---:|:---:|:---:|
-| **500+** DSA Problems | Full-Stack Platforms | **160+** LeetCode | Final Year **BCA** |
-| Pattern-First Thinking | REST APIs & Auth Systems | **340+** GFG Solutions | Graduating **2025** |
+| **500+** DSA Problems | Full-Stack Platforms | **192+** LeetCode | Final Year **BCA** |
+| Pattern-First Thinking | REST APIs & Auth Systems | **327+** GFG Solutions | Graduating **2025** |
 | Time & Space Optimiser | Cloud-Integrated Apps | Multi-Platform Coder | Always Upskilling |
+
+</div>
+
+---
+
+<!-- SKILL RADAR — unique self-rated proficiency bars, not just badge soup -->
+## 🎯 Skill Proficiency Radar
+
+<div align="center">
+
+```
+Node.js / Express     ████████████████████░░░░  82%
+MongoDB / Mongoose     ███████████████████░░░░░  78%
+REST API Design        ████████████████████░░░░  83%
+DSA & Problem Solving   ████████████████████░░░░  85%
+React.js                ███████████████░░░░░░░░  62%
+System Design Basics     ██████████████░░░░░░░░  58%
+AWS Fundamentals          █████████████░░░░░░░░░  52%
+```
 
 </div>
 
@@ -160,8 +199,8 @@ const rajneesh = {
 
 | Platform | Solved | Core Focus |
 |:---:|:---:|:---:|
-| **LeetCode** | 160+ | Arrays · Trees · Graphs · DP · Sliding Window |
-| **GeeksforGeeks** | 340+ | Core DSA · OS · DBMS · Recursion · Linked Lists |
+| **LeetCode** | 192+ | Arrays · Trees · Graphs · DP · Sliding Window |
+| **GeeksforGeeks** | 327+ | Core DSA · OS · DBMS · Recursion · Linked Lists |
 | **Total** | **500+** | Consistent · Pattern-Driven · Multi-Platform |
 
 <br/>
@@ -214,6 +253,32 @@ System Design        ███████████████░░░░�
 Advanced DSA         ████████████████████░░░░   Graphs · Segment Trees · Competitive problem sets
 React Ecosystem      ████████████░░░░░░░░░░░░   Full-stack product development with modern React
 ```
+
+---
+
+<!-- "BUILD LOG" — unique narrative timeline, reads like a dev journal instead of a generic list -->
+## 📓 Build Log
+
+<div align="center">
+
+```
+2025 ── BCA Final Year
+  │     Repositioning toward backend-first engineering
+  │
+  ├── Internship · Sipher Web Pvt. Ltd.
+  │     Full Stack Developer — shipped production features end-to-end
+  │
+  ├── Internship · NIELIT Lucknow (Govt. of India)
+  │     AI/ML — applied research alongside core dev work
+  │
+  ├── Project · StayNest
+  │     MERN rental marketplace — auth, cloud images, normalized data models
+  │
+  └── Ongoing · 500+ DSA problems
+        Daily pattern recognition across LeetCode & GeeksforGeeks
+```
+
+</div>
 
 ---
 
