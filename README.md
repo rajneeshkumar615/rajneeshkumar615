@@ -1,40 +1,26 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Rajneesh%20Kumar&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend-Focused%20Full%20Stack%20Developer%20%E2%80%A2%20Node.js%20%E2%80%A2%20Express%20%E2%80%A2%20MongoDB&descAlignY=62&descSize=18&descColor=a78bfa" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Rajneesh%20Kumar&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Backend%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20DSA%20Practitioner&descAlignY=60&descSize=17&descColor=a78bfa" />
 
 <br/>
 
-<a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Backend+Engineer+%7C+Full+Stack+Developer;460%2B+DSA+Problems+Solved+%F0%9F%A7%A0;Node.js+%E2%80%A2+Express.js+%E2%80%A2+MongoDB+%E2%80%A2+React;Open+to+Internships+%26+SDE+Roles+%F0%9F%9A%80" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1200&color=A78BFA&center=true&vCenter=true&width=720&lines=Building+scalable+backend+systems+with+Node.js+%26+Express;500%2B+DSA+problems+solved+across+LeetCode+%26+GFG;REST+APIs+%C2%B7+MongoDB+%C2%B7+Auth+Systems+%C2%B7+Cloud+Integrations;Open+to+SDE+Internships+%26+Backend+%2F+Full-Stack+Roles" />
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/rajneesh-kumar615">
-  <img src="https://img.shields.io/badge/LinkedIn-rajneesh--kumar615-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-rajneesh--kumar615-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajneesh-kumar615)
 &nbsp;
-<a href="mailto:kumarajneesh008@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-kumarajneesh008-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+[![Gmail](https://img.shields.io/badge/Gmail-kumarajneesh008-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kumarajneesh008@gmail.com)
 &nbsp;
-<a href="https://github.com/rajneeshkumar615">
-  <img src="https://img.shields.io/badge/GitHub-rajneeshkumar615-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-rajneeshkumar615-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajneeshkumar615)
 
-<br/><br/>
+<br/>
 
-<a href="https://leetcode.com/u/Rajneesh_Kumar615/">
-  <img src="https://img.shields.io/badge/LeetCode-160%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
+[![LeetCode](https://img.shields.io/badge/LeetCode-160%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Rajneesh_Kumar615/)
 &nbsp;
-<a href="https://www.geeksforgeeks.org/user/uchihaitacipvy/">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-300%2B%20Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-</a>
-
-<br/><br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=rajneeshkumar615&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-340%2B%20Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/uchihaitacipvy/)
+&nbsp;
+[![Profile Views](https://komarev.com/ghpvc/?username=rajneeshkumar615&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/rajneeshkumar615)
 
 </div>
 
@@ -44,15 +30,16 @@
 
 ```javascript
 const rajneesh = {
-  role        : "Backend-Focused Full Stack Developer",
-  education   : "Final Year BCA Student",
-  location    : "India 🇮🇳",
-  coreStack   : ["Node.js", "Express.js", "MongoDB", "REST APIs"],
+  role              : "Backend-Focused Full Stack Developer",
+  education         : "Final Year BCA — Graduating 2025",
+  location          : "India 🇮🇳",
+  coreStack         : ["Node.js", "Express.js", "MongoDB", "REST APIs"],
   currentlyBuilding : "StayNest — full-stack property rental platform",
-  problemSolving    : "160+ LeetCode · 300+ GeeksforGeeks",
-  topics            : ["Arrays", "Trees", "Graphs", "Dynamic Programming"],
+  problemSolving    : "160+ LeetCode  ·  340+ GeeksforGeeks  ·  500+ Total",
+  strongIn          : ["Arrays", "Trees", "Graphs", "Dynamic Programming", "Sliding Window"],
   lookingFor        : "SDE Internships & Backend / Full-Stack Roles",
-  available   : true
+  available         : true,
+  principle         : "Write code that your future self can understand at 2 AM"
 };
 ```
 
@@ -64,37 +51,9 @@ const rajneesh = {
 
 | 🧠 Problem Solver | 🛠️ Builder | 🎯 Achiever | 📚 Learner |
 |:---:|:---:|:---:|:---:|
-| **460+** DSA Problems | Full-Stack Platforms | **160+** LeetCode | Final Year **BCA** |
-| Algorithmic Thinking | REST APIs & Auth Systems | **300+** GFG Solutions | Graduating 2025 |
-| Data Structures Expert | Cloud-integrated Apps | Multi-platform Coder | Always Upskilling |
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=rajneeshkumar615&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&include_all_commits=true&count_private=true" height="175" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajneeshkumar615&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" height="175" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=rajneeshkumar615&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" />
-
-<br/><br/>
-
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=rajneeshkumar615&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff&area=true&hide_border=true" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=rajneeshkumar615&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" />
-
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajneeshkumar615&theme=tokyonight" />
+| **500+** DSA Problems | Full-Stack Platforms | **160+** LeetCode | Final Year **BCA** |
+| Pattern-First Thinking | REST APIs & Auth Systems | **340+** GFG Solutions | Graduating **2025** |
+| Time & Space Optimiser | Cloud-Integrated Apps | Multi-Platform Coder | Always Upskilling |
 
 </div>
 
@@ -167,20 +126,20 @@ const rajneesh = {
 
 ## 🏠 Featured Project — StayNest
 
-> A full-stack property rental platform built with Node.js, Express.js, MongoDB, EJS, Passport.js, and Cloudinary.
+> **Problem:** Building a production-grade rental marketplace that handles multi-user auth, file uploads, and relational data — without a framework doing the heavy lifting.
 
-**What it does:** Hosts can create and manage property listings with photo uploads. Guests can browse listings, leave reviews, and interact with hosts — all behind a secure, session-based authentication layer.
+**Solution:** Engineered a full-stack platform from scratch using Node.js + Express + MongoDB where every architectural decision — from auth strategy to image pipeline to data modeling — was made deliberately.
 
-### Technical Highlights
+### Technical Architecture
 
-| Area | Implementation |
+| Layer | Design Decision & Rationale |
 |---|---|
-| **Authentication & Authorization** | Passport.js local strategy · session-based auth · role-based route protection |
-| **Image Management** | Cloudinary integration via Multer — multi-image upload with cloud storage |
-| **Data Layer** | MongoDB + Mongoose · relational references: User → Listing → Review |
-| **API Design** | RESTful architecture · full CRUD for listings and reviews |
-| **Session & UX** | Express-session · connect-flash for feedback · responsive Bootstrap UI |
-| **Security** | Input validation · authorization middleware · sanitized user inputs |
+| **Auth & Authorization** | Passport.js local strategy · session-based auth · role-based middleware — users can only mutate their own resources |
+| **Image Pipeline** | Multer → Cloudinary: multi-image upload with cloud storage, offloading binary data from the app server entirely |
+| **Data Modeling** | MongoDB + Mongoose · normalized references: `User → Listing → Review` — avoids document bloat, enables clean population queries |
+| **API Design** | RESTful architecture · full CRUD for listings and reviews · consistent response structure |
+| **UX & Feedback** | Express-session + connect-flash — stateless feedback without client-side state management overhead |
+| **Security** | Input validation · authorization middleware · sanitized user inputs — prevents unauthorized data mutation |
 
 ### Core Stack
 
@@ -199,23 +158,62 @@ const rajneesh = {
 
 <div align="center">
 
-| Platform | Solved | Topics |
+| Platform | Solved | Core Focus |
 |:---:|:---:|:---:|
-| **LeetCode** | 160+ | Arrays, Linked Lists, Trees, DP, Graphs |
-| **GeeksforGeeks** | 300+ | Core DSA, OS, DBMS Concepts |
-| **Total** | **460+** | Multi-platform Consistency |
+| **LeetCode** | 160+ | Arrays · Trees · Graphs · DP · Sliding Window |
+| **GeeksforGeeks** | 340+ | Core DSA · OS · DBMS · Recursion · Linked Lists |
+| **Total** | **500+** | Consistent · Pattern-Driven · Multi-Platform |
 
 <br/>
 
-<a href="https://leetcode.com/u/Rajneesh_Kumar615/">
-  <img src="https://img.shields.io/badge/LeetCode-View%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
+> Approach: Identify the pattern first, then write the code. Every problem is a lesson in trade-offs.
+
+<br/>
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-View%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Rajneesh_Kumar615/)
 &nbsp;
-<a href="https://www.geeksforgeeks.org/user/uchihaitacipvy/">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-View%20Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-</a>
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-View%20Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/uchihaitacipvy/)
 
 </div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=rajneeshkumar615&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&include_all_commits=true&count_private=true" height="175" />
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajneeshkumar615&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" height="175" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=rajneeshkumar615&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" />
+
+<br/><br/>
+
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=rajneeshkumar615&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff&area=true&hide_border=true" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=rajneeshkumar615&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" />
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajneeshkumar615&theme=tokyonight" />
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+```
+Backend Systems      ████████████████████░░░░   Deepening: caching, rate limiting, middleware design
+System Design        ███████████████░░░░░░░░░   Load balancing · DB sharding · API gateway patterns  
+Advanced DSA         ████████████████████░░░░   Graphs · Segment Trees · Competitive problem sets
+React Ecosystem      ████████████░░░░░░░░░░░░   Full-stack product development with modern React
+```
 
 ---
 
@@ -233,7 +231,7 @@ const rajneesh = {
 
 ---
 
-## 📬 Contact
+## 📬 Let's Connect
 
 <div align="center">
 
@@ -241,21 +239,15 @@ const rajneesh = {
 
 <br/><br/>
 
-<a href="mailto:kumarajneesh008@gmail.com">
-  <img src="https://img.shields.io/badge/Email-kumarajneesh008@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+[![Email](https://img.shields.io/badge/Email-kumarajneesh008@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kumarajneesh008@gmail.com)
 &nbsp;
-<a href="https://www.linkedin.com/in/rajneesh-kumar615">
-  <img src="https://img.shields.io/badge/LinkedIn-rajneesh--kumar615-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-rajneesh--kumar615-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajneesh-kumar615)
 &nbsp;
-<a href="https://github.com/rajneeshkumar615">
-  <img src="https://img.shields.io/badge/GitHub-rajneeshkumar615-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-rajneeshkumar615-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajneeshkumar615)
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Open%20to%20Work-00c853?style=for-the-badge&logo=checkmarx&logoColor=white" />
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-00c853?style=for-the-badge&logo=checkmarx&logoColor=white)
 
 </div>
 
