@@ -1,51 +1,33 @@
-name: Update README Stats
+name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 3 * * *" # daily 03:00 UTC
-  workflow_dispatch:
+    - cron: "0 0 * * *"
+  workflow_dispatch: {}
+  push:
+    branches:
+      - main
 
 permissions:
   contents: write
 
-concurrency:
-  group: readme-stats
-  cancel-in-progress: true
-
 jobs:
-  update-readme:
-    name: Refresh stats block
+  generate:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - name: Generate snake animation
+        uses: Platane/snk@v3
+        id: snake-gif
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Update stats markers
+      - name: Push snake output to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
         env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          STARS=$(gh api repos/${{ github.repository }} --jq '.stargazers_count')
-          FORKS=$(gh api repos/${{ github.repository }} --jq '.forks_count')
-          UPDATED=$(date -u +"%Y-%m-%d")
-
-          python3 - <<EOF
-          import re
-
-          with open("README.md", "r") as f:
-              content = f.read()
-
-          block = f"<!-- STATS:START -->\n⭐ Stars: ${STARS} · 🍴 Forks: ${FORKS} · Last synced: ${UPDATED} UTC\n<!-- STATS:END -->"
-          content = re.sub(r"<!-- STATS:START -->.*?<!-- STATS:END -->", block, content, flags=re.DOTALL)
-
-          with open("README.md", "w") as f:
-              f.write(content)
-          EOF
-
-      - name: Commit changes if any
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add README.md
-          git diff --cached --quiet || git commit -m "chore: auto-update README stats [skip ci]"
-          git push
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
