@@ -49,7 +49,7 @@ const rajneesh = {
   location          : "India 🇮🇳",
   coreStack         : ["Node.js", "Express.js", "MongoDB", "REST APIs"],
   currentlyBuilding : "CodePulse AI — AI-powered Developer Intelligence Platform",
-  problemSolving    : "192+ LeetCode  ·  327+ GeeksforGeeks  ·  500+ Total",
+  problemSolving    : "230+ LeetCode  ·  340+ GeeksforGeeks  ·  550+ Total",
   strongIn          : ["Arrays", "Trees", "Graphs", "Dynamic Programming", "Sliding Window"],
   lookingFor        : "SDE Internships & Backend / Full-Stack Roles",
   available         : true,
