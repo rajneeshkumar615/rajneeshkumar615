@@ -22,11 +22,15 @@
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:22C55E,100:16A34A&height=4" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:86EFAC,100:22C55E&height=5" />
 
 <br/>
 
-## 📊 Engineering Metrics
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=2200&pause=1200&color=22C55E&center=true&vCenter=true&width=760&lines=%F0%9F%93%8A+ENGINEERING+METRICS" />
+
+</div>
 
 <div align="center">
 <table>
@@ -81,11 +85,15 @@
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:22C55E,100:16A34A&height=4" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:86EFAC,100:22C55E&height=5" />
 
 <br/>
 
-## ⚙️ Engineer Profile
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=2200&pause=1200&color=10B981&center=true&vCenter=true&width=760&lines=%E2%9A%99%EF%B8%8F+ENGINEER+PROFILE" />
+
+</div>
 
 <div align="center">
 
@@ -111,11 +119,15 @@
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:22C55E,100:16A34A&height=4" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:86EFAC,100:22C55E&height=5" />
 
 <br/>
 
-## 🖥️ Backend Engineering Stack
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=2200&pause=1200&color=16A34A&center=true&vCenter=true&width=760&lines=%F0%9F%96%A5%EF%B8%8F+BACKEND+ENGINEERING+STACK" />
+
+</div>
 
 <div align="center">
 
@@ -182,11 +194,15 @@
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:22C55E,100:16A34A&height=4" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:86EFAC,100:22C55E&height=5" />
 
 <br/>
 
-## 🤖 AI Systems & LLM Engineering
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=2200&pause=1200&color=10B981&center=true&vCenter=true&width=760&lines=%F0%9F%A4%96+AI+SYSTEMS+%26+LLM+ENGINEERING" />
+
+</div>
 
 <div align="center">
 
@@ -203,11 +219,15 @@
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:22C55E,100:16A34A&height=4" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:86EFAC,100:22C55E&height=5" />
 
 <br/>
 
-## 🎯 Core Expertise
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=2200&pause=1200&color=4ADE80&center=true&vCenter=true&width=760&lines=%F0%9F%8E%AF+CORE+EXPERTISE" />
+
+</div>
 
 <div align="center">
 
@@ -253,11 +273,15 @@ AWS Fundamentals
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:22C55E,100:16A34A&height=4" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:86EFAC,100:22C55E&height=5" />
 
 <br/>
 
-## 🚀 Featured Engineering
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=2200&pause=1200&color=22C55E&center=true&vCenter=true&width=760&lines=%F0%9F%9A%80+FEATURED+ENGINEERING" />
+
+</div>
 
 <br/>
 
@@ -291,7 +315,7 @@ Repository Analysis &nbsp;•&nbsp; AI Repository Chat &nbsp;•&nbsp; Engineeri
 >
 > **Solution:** A completed AI-powered platform that ingests any GitHub repository and produces a full engineering intelligence report — architecture visualization, an engineering health score, an AI-generated roadmap, and a conversational interface to query the codebase directly.
 
-**Core Capabilities**
+### Core Capabilities
 
 <div align="center">
 
@@ -355,7 +379,7 @@ Repository Analysis &nbsp;•&nbsp; AI Repository Chat &nbsp;•&nbsp; Engineeri
 >
 > **Solution:** A full-stack platform engineered from scratch on Node.js + Express + MongoDB, where every architectural decision — from auth strategy to image pipeline to data modeling — was made deliberately.
 
-**Core Capabilities**
+### Core Capabilities
 
 <div align="center">
 
@@ -394,11 +418,15 @@ Repository Analysis &nbsp;•&nbsp; AI Repository Chat &nbsp;•&nbsp; Engineeri
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:22C55E,100:16A34A&height=4" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:86EFAC,100:22C55E&height=5" />
 
 <br/>
 
-## 🧩 Problem Solving
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=2200&pause=1200&color=16A34A&center=true&vCenter=true&width=760&lines=%F0%9F%A7%A9+PROBLEM+SOLVING" />
+
+</div>
 
 <div align="center">
 
@@ -446,11 +474,15 @@ Repository Analysis &nbsp;•&nbsp; AI Repository Chat &nbsp;•&nbsp; Engineeri
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:22C55E,100:16A34A&height=4" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:86EFAC,100:22C55E&height=5" />
 
 <br/>
 
-## 📈 GitHub Stats
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=2200&pause=1200&color=22C55E&center=true&vCenter=true&width=760&lines=%F0%9F%93%88+GITHUB+STATS" />
+
+</div>
 
 <div align="center">
 
@@ -480,11 +512,15 @@ Repository Analysis &nbsp;•&nbsp; AI Repository Chat &nbsp;•&nbsp; Engineeri
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:22C55E,100:16A34A&height=4" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:86EFAC,100:22C55E&height=5" />
 
 <br/>
 
-## 🎯 Current Focus
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=2200&pause=1200&color=10B981&center=true&vCenter=true&width=760&lines=%F0%9F%8E%AF+CURRENT+FOCUS" />
+
+</div>
 
 ```text
 $ backend-systems
@@ -502,11 +538,15 @@ $ advanced-dsa
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:22C55E,100:16A34A&height=4" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:86EFAC,100:22C55E&height=5" />
 
 <br/>
 
-## 📓 Build Log
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=2200&pause=1200&color=16A34A&center=true&vCenter=true&width=760&lines=%F0%9F%93%93+BUILD+LOG" />
+
+</div>
 
 **2025 — BCA Final Year**
 - Repositioned toward backend-first engineering
@@ -524,11 +564,15 @@ $ advanced-dsa
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:22C55E,100:16A34A&height=4" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:86EFAC,100:22C55E&height=5" />
 
 <br/>
 
-## 🐍 Contribution Activity
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=2200&pause=1200&color=4ADE80&center=true&vCenter=true&width=760&lines=%F0%9F%90%8D+CONTRIBUTION+ACTIVITY" />
+
+</div>
 
 <div align="center">
 
