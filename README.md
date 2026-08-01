@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2800&pause=1000&color=22C55E&center=true&vCenter=true&width=780&lines=Building+Scalable+Backend+Systems+with+Node.js;Designing+Production-Ready+REST+APIs;Creator+of+CodePulse+AI;500%2B+DSA+Problems+Solved;Backend+%C2%B7+AI+%C2%B7+Cloud+%C2%B7+System+Design;Open+to+Backend+Engineering+Roles" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2800&pause=1000&color=22C55E&center=true&vCenter=true&width=780&lines=Designing+backend+systems+with+Node.js+%26+Express;Designing+Production-Ready+REST+APIs;Creator+of+CodePulse+AI;500%2B+DSA+problems+across+LeetCode+%26+GeeksforGeeks;Backend+%C2%B7+AI+%C2%B7+Cloud+%C2%B7+System+Design;Open+to+Backend+Engineering+Roles" />
 
 <br/>
 
@@ -204,7 +204,11 @@ $ aws-fundamentals
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:a855f7,100:3b82f6&height=110&section=header&text=%F0%9F%9A%80%20CodePulse%20AI&fontSize=38&fontColor=ffffff&fontAlignY=48&desc=v1.0.0%20%E2%80%A2%20AI%20Developer%20Intelligence%20Platform&descAlignY=75&descSize=15&descColor=e9d5ff&fontAlign=8&descAlign=8" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:a855f7,100:06b6d4&height=110&section=header&text=%F0%9F%9A%80%20CodePulse%20AI&fontSize=38&fontColor=ffffff&fontAlignY=44&desc=v1.0.0%20%E2%80%A2%20AI%20Developer%20Intelligence%20Platform&descAlignY=68&descSize=15&descColor=e9d5ff&fontAlign=8&descAlign=8" />
+
+<br/>
+
+![AI-Powered](https://img.shields.io/badge/🤖%20AI--Powered-06b6d4?style=for-the-badge&logoColor=white)
 
 <br/>
 
@@ -282,9 +286,9 @@ $ aws-fundamentals
 
 | Platform | Solved | Core Focus |
 |:---:|:---:|:---:|
-| [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/Rajneesh_Kumar615/) | ![192+](https://img.shields.io/badge/🟢%20192+-22c55e?style=flat-square) | Arrays · Trees · Graphs · DP · Sliding Window |
+| [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/Rajneesh_Kumar615/) | ![230+](https://img.shields.io/badge/🟢%20230+-22c55e?style=flat-square) | Arrays · Trees · Graphs · DP · Sliding Window |
 | [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/uchihaitacipvy/) | ![327+](https://img.shields.io/badge/🟢%20327+-22c55e?style=flat-square) | Core DSA · OS · DBMS · Recursion · Linked Lists |
-| **Total** | ![500+](https://img.shields.io/badge/🟢%20500+-16a34a?style=flat-square) | Consistent · Pattern-Driven · Multi-Platform |
+| **Total** | ![557+](https://img.shields.io/badge/🟢%20557+-16a34a?style=flat-square) | Consistent · Pattern-Driven · Multi-Platform |
 
 <br/>
 
