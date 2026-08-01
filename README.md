@@ -22,10 +22,9 @@
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:86EFAC,100:22C55E&height=8" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:86EFAC,100:22C55E&height=5" />
 
-<details>
-<summary><h2>📊 Engineering Metrics</h2></summary>
+<br/>
 
 <div align="center">
 
@@ -84,12 +83,11 @@
 </table>
 </div>
 
-</details>
+<br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:86EFAC,100:22C55E&height=8" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:86EFAC,100:22C55E&height=5" />
 
-<details>
-<summary><h2>⚙️ Engineer Profile</h2></summary>
+<br/>
 
 <div align="center">
 
@@ -119,12 +117,11 @@
 
 </div>
 
-</details>
+<br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:86EFAC,100:22C55E&height=8" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:86EFAC,100:22C55E&height=5" />
 
-<details>
-<summary><h2>🖥️ Backend Engineering Stack</h2></summary>
+<br/>
 
 <div align="center">
 
@@ -195,12 +192,11 @@
 
 </div>
 
-</details>
+<br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:86EFAC,100:22C55E&height=8" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:86EFAC,100:22C55E&height=5" />
 
-<details>
-<summary><h2>🤖 AI Systems &amp; LLM Engineering</h2></summary>
+<br/>
 
 <div align="center">
 
@@ -221,12 +217,11 @@
 
 </div>
 
-</details>
+<br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:86EFAC,100:22C55E&height=8" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:86EFAC,100:22C55E&height=5" />
 
-<details>
-<summary><h2>🎯 Core Expertise</h2></summary>
+<br/>
 
 <div align="center">
 
@@ -276,12 +271,11 @@ AWS Fundamentals
 
 </div>
 
-</details>
+<br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:86EFAC,100:22C55E&height=8" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:86EFAC,100:22C55E&height=5" />
 
-<details open>
-<summary><h2>🚀 Featured Engineering</h2></summary>
+<br/>
 
 <div align="center">
 
@@ -361,12 +355,11 @@ Repository Analysis &nbsp;•&nbsp; AI Repository Chat &nbsp;•&nbsp; Engineeri
 
 </div>
 
-</details>
+<br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:22C55E,100:16A34A&height=8" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:22C55E,100:16A34A&height=110" />
 
-<details>
-<summary><h2>🏠 StayNest</h2></summary>
+<br/>
 
 <div align="center">
 
@@ -423,12 +416,11 @@ Repository Analysis &nbsp;•&nbsp; AI Repository Chat &nbsp;•&nbsp; Engineeri
 
 </div>
 
-</details>
+<br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:86EFAC,100:22C55E&height=8" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:86EFAC,100:22C55E&height=5" />
 
-<details>
-<summary><h2>🧩 Problem Solving</h2></summary>
+<br/>
 
 <div align="center">
 
@@ -480,12 +472,11 @@ Repository Analysis &nbsp;•&nbsp; AI Repository Chat &nbsp;•&nbsp; Engineeri
 
 </div>
 
-</details>
+<br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:86EFAC,100:22C55E&height=8" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:86EFAC,100:22C55E&height=5" />
 
-<details>
-<summary><h2>📈 GitHub Stats</h2></summary>
+<br/>
 
 <div align="center">
 
@@ -519,12 +510,11 @@ Repository Analysis &nbsp;•&nbsp; AI Repository Chat &nbsp;•&nbsp; Engineeri
 
 </div>
 
-</details>
+<br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:86EFAC,100:22C55E&height=8" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:86EFAC,100:22C55E&height=5" />
 
-<details>
-<summary><h2>🎯 Current Focus</h2></summary>
+<br/>
 
 <div align="center">
 
@@ -546,12 +536,11 @@ $ advanced-dsa
 ████████████████████░░░░   graphs · segment trees · competitive problem sets
 ```
 
-</details>
+<br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:86EFAC,100:22C55E&height=8" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:86EFAC,100:22C55E&height=5" />
 
-<details>
-<summary><h2>📓 Build Log</h2></summary>
+<br/>
 
 <div align="center">
 
@@ -573,12 +562,11 @@ $ advanced-dsa
   - Engineering dashboard
   - Production release `v1.0.0`
 
-</details>
+<br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:86EFAC,100:22C55E&height=8" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:86EFAC,100:22C55E&height=5" />
 
-<details>
-<summary><h2>🐍 Contribution Activity</h2></summary>
+<br/>
 
 <div align="center">
 
@@ -596,9 +584,7 @@ $ advanced-dsa
 
 </div>
 
-</details>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:86EFAC,100:22C55E&height=8" />
+<br/>
 
 <div align="center">
 
