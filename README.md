@@ -1,94 +1,124 @@
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Rajneesh%20Kumar&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Backend%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20DSA%20Practitioner&descAlignY=60&descSize=17&descColor=a78bfa" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Rajneesh%20Kumar&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Backend%20Engineer%20%E2%80%A2%20AI-First%20Builder%20%E2%80%A2%20DSA%20Practitioner&descAlignY=60&descSize=17&descColor=a78bfa" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1200&color=A78BFA&center=true&vCenter=true&width=720&lines=Building+scalable+backend+systems+with+Node.js+%26+Express;500%2B+DSA+problems+solved+across+LeetCode+%26+GFG;REST+APIs+%C2%B7+MongoDB+%C2%B7+Auth+Systems+%C2%B7+Cloud+Integrations;Creator+of+CodePulse+AI+%E2%80%A2+AI+Developer+Intelligence+Platform" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1200&color=A78BFA&center=true&vCenter=true&width=760&lines=Designing+backend+systems+with+Node.js+%26+Express;500%2B+DSA+problems+across+LeetCode+%26+GeeksforGeeks;REST+APIs+%C2%B7+MongoDB+%C2%B7+Auth+Systems+%C2%B7+Cloud+Integrations;Building+CodePulse+AI+%E2%80%94+AI+Developer+Intelligence+Platform" />
 
-<br/><br/>
+<br/>
 
+[![GitHub](https://img.shields.io/badge/GitHub-rajneeshkumar615-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajneeshkumar615)
+&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rajneesh--kumar615-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajneesh-kumar615)
 &nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-kumarajneesh008-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kumarajneesh008@gmail.com)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-rajneeshkumar615-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajneeshkumar615)
+[![Gmail](https://img.shields.io/badge/Email-kumarajneesh008%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kumarajneesh008@gmail.com)
 
-<br/>
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-192%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Rajneesh_Kumar615/)
-&nbsp;
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-327%2B%20Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/uchihaitacipvy/)
-&nbsp;
-[![Profile Views](https://komarev.com/ghpvc/?username=rajneeshkumar615&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/rajneeshkumar615)
-
-<br/>
-
-![CodePulse AI](https://img.shields.io/badge/CodePulse_AI-v1.0.0-success?style=for-the-badge)
+<sub>Profile views: <img src="https://komarev.com/ghpvc/?username=rajneeshkumar615&color=a78bfa&style=flat-square&label=" valign="middle" /> &nbsp;•&nbsp; <img src="https://img.shields.io/badge/CodePulse_AI-v1.0.0-a78bfa?style=flat-square" valign="middle" /></sub>
 
 </div>
 
----
+<br/>
 
-<!-- ANIMATED TERMINAL INTRO — actually renders, unlike raw ansi blocks -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=2" />
+
+<br/>
+
+## 📊 Engineering Metrics
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2800&pause=900&color=22C55E&background=0D111700&center=true&vCenter=true&width=820&lines=rajneesh%40dev%3A~%24+whoami;Backend-focused+Full+Stack+Developer+%7C+BCA+Graduate+2026+%7C+India;rajneesh%40dev%3A~%24+cat+status.txt;Open+to+SDE+%2F+Full-Stack+roles;Building+AI-powered+Developer+Intelligence+Platform;rajneesh%40dev%3A~%24+echo+%24MOTTO;%22Write+code+your+future+self+understands+at+2+AM%22" />
+<table>
+<tr>
+<td align="center" width="25%">
+<h3>🧠</h3>
+<b>500+</b>
+<br/>
+<sub>DSA Problems Solved</sub>
+</td>
+<td align="center" width="25%">
+<h3>🚀</h3>
+<b>2</b>
+<br/>
+<sub>Production-Grade Projects</sub>
+</td>
+<td align="center" width="25%">
+<h3>🧪</h3>
+<b>Jest + Supertest</b>
+<br/>
+<sub>Automated Testing Practice</sub>
+</td>
+<td align="center" width="25%">
+<h3>🔌</h3>
+<b>RESTful</b>
+<br/>
+<sub>Auth-Secured APIs Shipped</sub>
+</td>
+</tr>
+</table>
 
 </div>
 
----
+<br/>
 
-## 👨‍💻 About Me
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=2" />
 
-```javascript
-const rajneesh = {
-  role              : "Backend-Focused Full Stack Developer",
-  education         : "BCA Graduate (2026)",
-  location          : "India 🇮🇳",
-  coreStack         : ["Node.js", "Express.js", "MongoDB", "REST APIs"],
-  currentlyBuilding : "CodePulse AI — AI-powered Developer Intelligence Platform",
-  problemSolving    : "230+ LeetCode  ·  340+ GeeksforGeeks  ·  550+ Total",
-  strongIn          : ["Arrays", "Trees", "Graphs", "Dynamic Programming", "Sliding Window"],
-  lookingFor        : "SDE Internships & Backend / Full-Stack Roles",
-  available         : true,
-  principle         : "Write code that your future self can understand at 2 AM"
-};
+## ⚙️ System Profile
+
+> A backend engineer, expressed as config — not a bio.
+
+```yaml
+# system.profile.yaml
+
+engineer:
+  name: Rajneesh Kumar
+  role: Backend Engineer · Full-Stack Developer
+  education: BCA Graduate (2026)
+  location: India
+  status: ONLINE
+
+runtime:
+  languages: [JavaScript, TypeScript, Java, Python, C]
+  core_stack: [Node.js, Express.js, MongoDB, REST APIs]
+  currently_building: "CodePulse AI — AI Developer Intelligence Platform"
+
+problem_solving:
+  leetcode_profile: 192+ solved
+  geeksforgeeks_profile: 327+ solved
+  total_solved: 500+
+  strengths: [Arrays, Trees, Graphs, Dynamic Programming, Sliding Window]
+  approach: "Identify the pattern first, then write the code."
+
+availability:
+  status: OPEN_TO_WORK
+  seeking: [SDE Internships, Backend Roles, Full-Stack Roles]
+
+principle: "Write code that your future self can understand at 2 AM."
 ```
 
----
+<br/>
 
-## ⚡ Engineering Snapshot
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=2" />
 
-<div align="center">
-
-| 🧠 Problem Solver | 🛠️ Builder | 🎯 Achiever | 📚 Learner |
-|:---:|:---:|:---:|:---:|
-| **500+** DSA Problems | Full-Stack + AI Platforms | **192+** LeetCode | **BCA Graduate** |
-| Pattern-First Thinking | REST APIs & Auth Systems | **327+** GFG Solutions | Class of **2026** |
-| Time & Space Optimiser | Cloud-Integrated Apps | Multi-Platform Coder | Always Upskilling |
-
-</div>
-
----
-
-## 🎯 Skill Proficiency Radar
+## 🎯 Skill Proficiency
 
 <div align="center">
 
-Node.js / Express ████████████████████░░░░ 82%
-MongoDB / Mongoose ███████████████████░░░░░ 78%
-REST API Design ████████████████████░░░░ 83%
-DSA & Problem Solving ████████████████████░░░░ 85%
-React.js / Next.js ███████████████░░░░░░░░░ 65%
-System Design Basics ██████████████░░░░░░░░░░ 58%
-AWS Fundamentals █████████████░░░░░░░░░░░ 52%
-
+| Domain | Proficiency |
+|---|---|
+| DSA & Problem Solving | ████████████████████░░░░ 85% |
+| REST API Design | ████████████████████░░░░ 83% |
+| Node.js / Express | ████████████████████░░░░ 82% |
+| MongoDB / Mongoose | ███████████████████░░░░░ 78% |
+| React.js / Next.js | ███████████████░░░░░░░░░ 65% |
+| System Design Basics | ██████████████░░░░░░░░░░ 58% |
+| AWS Fundamentals | █████████████░░░░░░░░░░░ 52% |
 
 </div>
 
----
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=2" />
 
 ## 🛠️ Technical Arsenal
 
@@ -106,18 +136,7 @@ AWS Fundamentals █████████████░░░░░░░░
 
 <br/>
 
-**AI & Modern Stack**
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Gemini AI](https://img.shields.io/badge/Gemini_AI-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![OpenAI SDK](https://img.shields.io/badge/OpenAI_SDK-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-<br/>
-
-**Backend**
+**Backend — Core Craft**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -127,11 +146,12 @@ AWS Fundamentals █████████████░░░░░░░░
 
 <br/>
 
-**Frontend**
+**AI & Modern Web**
 
-![React](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![EJS](https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Gemini AI](https://img.shields.io/badge/Gemini_AI-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![OpenAI SDK](https://img.shields.io/badge/OpenAI_SDK-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 <br/>
@@ -145,13 +165,21 @@ AWS Fundamentals █████████████░░░░░░░░
 
 <br/>
 
-**Cloud & Services**
+**Cloud & Deployment**
 
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
 ![MongoDB Atlas](https://img.shields.io/badge/MongoDB%20Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS%20Basics-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+
+<br/>
+
+**Frontend & UI**
+
+![React](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![EJS](https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 <br/>
 
@@ -166,69 +194,73 @@ AWS Fundamentals █████████████░░░░░░░░
 
 </div>
 
----
+<br/>
 
-## 🚀 Featured Project — CodePulse AI
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=2" />
+
+## 🚀 Featured Engineering
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:312E81&height=90&section=header&text=CodePulse%20AI&fontSize=32&fontColor=ffffff&fontAlignY=55&fontAlign=8" />
+
+**AI-Powered Developer Intelligence Platform** &nbsp;·&nbsp; `v1.0.0`
 
 > **Problem:** Understanding a codebase's health, architecture, and engineering quality at a glance is slow and manual — especially for recruiters, reviewers, and new contributors evaluating a repository.
-
-**Solution:** Built an AI-powered Developer Intelligence Platform that ingests any GitHub repository and produces a full engineering intelligence report — architecture visualization, an engineering health score, an AI-generated roadmap, and a conversational interface to query the codebase directly.
-
-### Technical Architecture
+>
+> **Solution:** An AI-powered platform that ingests any GitHub repository and produces a full engineering intelligence report — architecture visualization, an engineering health score, an AI-generated roadmap, and a conversational interface to query the codebase directly.
 
 | Layer | Design Decision & Rationale |
 |---|---|
-| **AI Repository Analysis** | Gemini-powered pipeline that parses repo structure, commit history, and code patterns into a deterministic engineering report |
-| **Engineering Score** | Composite health metric derived from code quality, activity, structure, and best-practice signals |
-| **Repository Chat** | Conversational interface (RAG-style context injection) to ask natural-language questions about any analyzed repo |
-| **GitHub Import** | Direct GitHub repo ingestion via API — no manual upload needed |
-| **AI Roadmap** | Auto-generated improvement roadmap based on detected architectural and engineering gaps |
-| **Architecture Visualization** | Interactive diagrams mapping module structure and dependencies |
-| **PDF Export** | One-click export of the full analysis report for sharing or portfolio use |
-| **Data Layer** | PostgreSQL + Prisma ORM for structured, type-safe persistence of analyses and history |
+| AI Repository Analysis | Gemini-powered pipeline that parses repo structure, commit history, and code patterns into a deterministic engineering report |
+| Engineering Score | Composite health metric derived from code quality, activity, structure, and best-practice signals |
+| Repository Chat | Conversational interface (RAG-style context injection) to ask natural-language questions about any analyzed repo |
+| GitHub Import | Direct GitHub repo ingestion via API — no manual upload needed |
+| AI Roadmap | Auto-generated improvement roadmap based on detected architectural and engineering gaps |
+| Architecture Visualization | Interactive diagrams mapping module structure and dependencies |
+| PDF Export | One-click export of the full analysis report for sharing or portfolio use |
+| Data Layer | PostgreSQL + Prisma ORM for structured, type-safe persistence of analyses and history |
 
-### Core Stack
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Gemini AI](https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Gemini AI](https://img.shields.io/badge/Gemini_AI-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+[![View on GitHub](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajneeshkumar615/codepulse-ai)
 
-[![View on GitHub](https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajneeshkumar615/codepulse-ai)
+<br/>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:059669,100:065F46&height=90&section=header&text=StayNest&fontSize=32&fontColor=ffffff&fontAlignY=55&fontAlign=8" />
 
-## 🏠 Featured Project — StayNest
+**Full-Stack Rental Marketplace**
 
 > **Problem:** Building a production-grade rental marketplace that handles multi-user auth, file uploads, and relational data — without a framework doing the heavy lifting.
-
-**Solution:** Engineered a full-stack platform from scratch using Node.js + Express + MongoDB where every architectural decision — from auth strategy to image pipeline to data modeling — was made deliberately.
-
-### Technical Architecture
+>
+> **Solution:** A full-stack platform engineered from scratch on Node.js + Express + MongoDB, where every architectural decision — from auth strategy to image pipeline to data modeling — was made deliberately.
 
 | Layer | Design Decision & Rationale |
 |---|---|
-| **Auth & Authorization** | Passport.js local strategy · session-based auth · role-based middleware — users can only mutate their own resources |
-| **Image Pipeline** | Multer → Cloudinary: multi-image upload with cloud storage, offloading binary data from the app server entirely |
-| **Data Modeling** | MongoDB + Mongoose · normalized references: `User → Listing → Review` — avoids document bloat, enables clean population queries |
-| **API Design** | RESTful architecture · full CRUD for listings and reviews · consistent response structure |
-| **UX & Feedback** | Express-session + connect-flash — stateless feedback without client-side state management overhead |
-| **Security** | Input validation · authorization middleware · sanitized user inputs — prevents unauthorized data mutation |
+| Auth & Authorization | Passport.js local strategy · session-based auth · role-based middleware — users can only mutate their own resources |
+| Image Pipeline | Multer → Cloudinary: multi-image upload with cloud storage, offloading binary data from the app server entirely |
+| Data Modeling | MongoDB + Mongoose · normalized references: `User → Listing → Review` — avoids document bloat, enables clean population queries |
+| API Design | RESTful architecture · full CRUD for listings and reviews · consistent response structure |
+| UX & Feedback | Express-session + connect-flash — stateless feedback without client-side state management overhead |
+| Security | Input validation · authorization middleware · sanitized user inputs — prevents unauthorized data mutation |
 
-### Core Stack
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![EJS](https://img.shields.io/badge/EJS-B4CA65?style=flat-square&logo=ejs&logoColor=black)
+![Passport.js](https://img.shields.io/badge/Passport.js-34E27A?style=flat-square&logo=passport&logoColor=black)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![EJS](https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black)
-![Passport.js](https://img.shields.io/badge/Passport.js-34E27A?style=for-the-badge&logo=passport&logoColor=black)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+[![View on GitHub](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajneeshkumar615/StayNest)
 
-[![View on GitHub](https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajneeshkumar615/StayNest)
+<br/>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=2" />
 
 ## 🧠 Competitive Programming
 
@@ -236,25 +268,21 @@ AWS Fundamentals █████████████░░░░░░░░
 
 | Platform | Solved | Core Focus |
 |:---:|:---:|:---:|
-| **LeetCode** | 192+ | Arrays · Trees · Graphs · DP · Sliding Window |
-| **GeeksforGeeks** | 327+ | Core DSA · OS · DBMS · Recursion · Linked Lists |
+| [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/Rajneesh_Kumar615/) | **192+** | Arrays · Trees · Graphs · DP · Sliding Window |
+| [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/uchihaitacipvy/) | **327+** | Core DSA · OS · DBMS · Recursion · Linked Lists |
 | **Total** | **500+** | Consistent · Pattern-Driven · Multi-Platform |
 
 <br/>
 
-> Approach: Identify the pattern first, then write the code. Every problem is a lesson in trade-offs.
-
-<br/>
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-View%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Rajneesh_Kumar615/)
-&nbsp;
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-View%20Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/uchihaitacipvy/)
+<sub><i>Approach: identify the pattern first, then write the code. Every problem is a lesson in trade-offs.</i></sub>
 
 </div>
 
----
+<br/>
 
-## 📊 GitHub Stats
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=2" />
+
+## 📈 GitHub Stats
 
 <div align="center">
 
@@ -280,54 +308,42 @@ AWS Fundamentals █████████████░░░░░░░░
 
 </div>
 
----
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=2" />
 
 ## 🎯 Current Focus
 
-Backend Systems ████████████████████░░░░ Deepening: caching, rate limiting, middleware design
-AI Engineering ███████████████████░░░░░ LLM Integration • Repository Intelligence • RAG
-System Design ███████████████░░░░░░░░░ Load balancing · DB sharding · API gateway patterns
-Advanced DSA ████████████████████░░░░ Graphs · Segment Trees · Competitive problem sets
+```text
+Backend Systems   ████████████████████░░░░  Deepening: caching, rate limiting, middleware design
+AI Engineering    ███████████████████░░░░░  LLM integration · repository intelligence · RAG
+System Design     ███████████████░░░░░░░░░  Load balancing · DB sharding · API gateway patterns
+Advanced DSA      ████████████████████░░░░  Graphs · segment trees · competitive problem sets
+```
 
+<br/>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=2" />
 
 ## 📓 Build Log
 
-<div align="center">
+**2025 — BCA Final Year**
+- Repositioned toward backend-first engineering
+- Internship · **Sipher Web Pvt. Ltd.** — Full Stack Developer, shipped production features end-to-end
+- Internship · **NIELIT Lucknow** (Govt. of India) — AI/ML applied research alongside core dev work
+- Project · **StayNest** — MERN rental marketplace with auth, cloud images, normalized data models
+- Ongoing · 500+ DSA problems — daily pattern recognition across LeetCode & GeeksforGeeks
 
-2025 ── BCA Final Year
-│ Repositioning toward backend-first engineering
-│
-├── Internship · Sipher Web Pvt. Ltd.
-│ Full Stack Developer — shipped production features end-to-end
-│
-├── Internship · NIELIT Lucknow (Govt. of India)
-│ AI/ML — applied research alongside core dev work
-│
-├── Project · StayNest
-│ MERN rental marketplace — auth, cloud images, normalized data models
-│
-└── Ongoing · 500+ DSA problems
-Daily pattern recognition across LeetCode & GeeksforGeeks
+**2026 — BCA Graduate**
+- Built **CodePulse AI** — AI Developer Intelligence Platform
+  - GitHub repository analyzer
+  - AI repository chat
+  - Engineering dashboard
+  - Production release `v1.0.0`
 
-2026 ── BCA Graduate
-│
-├── Built CodePulse AI
-│ AI Developer Intelligence Platform
-│
-├── GitHub Repository Analyzer
-│
-├── AI Repository Chat
-│
-├── Engineering Dashboard
-│
-└── Production Release v1.0.0
+<br/>
 
-
-</div>
-
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=2" />
 
 ## 🐍 Contribution Activity
 
@@ -341,29 +357,22 @@ Daily pattern recognition across LeetCode & GeeksforGeeks
 
 </div>
 
----
-
-## 📬 Let's Connect
+<br/>
 
 <div align="center">
 
-<sub>Open to <b>SDE internship opportunities</b> and <b>backend / full-stack roles</b> at product companies.</sub>
-
-<br/><br/>
-
-[![Email](https://img.shields.io/badge/Email-kumarajneesh008@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kumarajneesh008@gmail.com)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-rajneesh--kumar615-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajneesh-kumar615)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-rajneeshkumar615-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajneeshkumar615)
-
-<br/><br/>
-
-![Open to Work](https://img.shields.io/badge/Open%20to%20Work-00c853?style=for-the-badge&logo=checkmarx&logoColor=white)
-
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=180&section=header&text=Let's%20Build%20Something&fontSize=34&fontColor=ffffff&fontAlignY=40&desc=Open%20to%20SDE%20internships%20and%20backend%20%2F%20full-stack%20roles&descAlignY=62&descSize=15&descColor=a78bfa" />
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-00c853?style=for-the-badge&logo=checkmarx&logoColor=white)
 
+<br/><br/>
+
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kumarajneesh008@gmail.com)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajneesh-kumar615)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajneeshkumar615)
+
+</div>
