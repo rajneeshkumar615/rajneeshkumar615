@@ -1,10 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:14532d,100:0D1117&height=230&section=header&text=Rajneesh%20Kumar&fontSize=68&fontColor=E6EDF3&animation=fadeIn&fontAlignY=34&desc=Backend%20Engineer%20%E2%80%A2%20AI%20Systems%20Builder%20%E2%80%A2%20Full%20Stack%20Developer&descAlignY=58&descSize=17&descColor=22C55E" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:14532d,100:0D1117&height=230&section=header&text=Rajneesh%20Kumar&fontSize=56&fontColor=E6EDF3&animation=fadeIn&fontAlignY=34&desc=Backend%20Engineer%20%E2%80%A2%20AI%20Systems%20Builder%20%E2%80%A2%20Full%20Stack%20Developer&descAlignY=58&descSize=17&descColor=22C55E" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=1000&color=22C55E&center=true&vCenter=true&width=800&lines=Designing+backend+systems+with+Node.js+%26+Express;Designing+Production-Ready+REST+APIs;Creator+of+CodePulse+AI;500%2B+DSA+problems+across+LeetCode+%26+GeeksforGeeks;Backend+%C2%B7+AI+%C2%B7+Cloud+%C2%B7+System+Design;Open+to+Backend+Engineering+Roles" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=1000&color=22C55E&center=true&vCenter=true&width=900&lines=Building+Production+Backend+Systems;Shipping+AI+Products;Creator+of+CodePulse+AI;Designing+REST+APIs;Node.js+%C2%B7+Express+%C2%B7+MongoDB;LLM+Engineering+%C2%B7+RAG+%C2%B7+AI;557%2B+DSA+Problems+Solved;Open+to+Backend+Engineering+Roles" />
 
 <br/>
 
@@ -34,7 +34,7 @@
 <td align="center" width="25%">
 <br/>
 
-# 🧠
+<h1>🟢</h1>
 
 ### 500+
 <sub><b>DSA PROBLEMS SOLVED</b></sub>
@@ -45,10 +45,10 @@
 <td align="center" width="25%">
 <br/>
 
-# ⚙️
+<h1>⚙️</h1>
 
-### Backend APIs
-<sub><b>RESTFUL &amp; AUTH-SECURED</b></sub>
+### REST APIs
+<sub><b>AUTH-SECURED &amp; PRODUCTION-READY</b></sub>
 <br/>
 <sub>Node.js &nbsp;·&nbsp; Express &nbsp;·&nbsp; MongoDB</sub>
 <br/><br/>
@@ -56,10 +56,10 @@
 <td align="center" width="25%">
 <br/>
 
-# 🤖
+<h1>🤖</h1>
 
-### AI Platform
-<sub><b>CODEPULSE AI · SHIPPED</b></sub>
+### CodePulse AI
+<sub><b>SHIPPED · v1.0.0</b></sub>
 <br/>
 <sub>Gemini &nbsp;·&nbsp; RAG &nbsp;·&nbsp; Repo Intelligence</sub>
 <br/><br/>
@@ -67,10 +67,10 @@
 <td align="center" width="25%">
 <br/>
 
-# 🚀
+<h1>🚀</h1>
 
-### Production Projects
-<sub><b>2 SHIPPED &amp; DOCUMENTED</b></sub>
+### Projects Shipped
+<sub><b>2 PRODUCTION-GRADE BUILDS</b></sub>
 <br/>
 <sub>CodePulse AI &nbsp;·&nbsp; StayNest</sub>
 <br/><br/>
@@ -90,19 +90,19 @@
 <div align="center">
 
 ```text
-╭──────────────────────────────────────────────────────────────╮
-│                       ENGINEER PROFILE                       │
-├──────────────────────────────────────────────────────────────┤
-│ Name      :: Rajneesh Kumar                                  │
-│ Role      :: Backend Engineer :: AI Systems Builder          │
-│ Education :: BCA Graduate (2026)                             │
-│ Location  :: India                                           │
-│ Status    :: OPEN_TO_WORK                                    │
-│ Stack     :: Node.js / Express / MongoDB / REST APIs         │
-│ Building  :: CodePulse AI -- Developer Intelligence Platform │
-│ DSA       :: 500+ Problems Solved (LeetCode + GeeksforGeeks) │
-│ Mission   :: Build scalable backend systems                  │
-╰──────────────────────────────────────────────────────────────╯
+╭────────────────────────────────────────────────────────────────────╮
+│                          ENGINEER PROFILE                          │
+├────────────────────────────────────────────────────────────────────┤
+│ Name            :: Rajneesh Kumar                                  │
+│ Role            :: Backend Engineer :: AI Systems Builder          │
+│ Education       :: BCA Graduate (2026)                             │
+│ Location        :: India                                           │
+│ Status          :: OPEN_TO_WORK                                    │
+│ Stack           :: Node.js / Express / MongoDB / REST APIs         │
+│ Current Project :: CodePulse AI                                    │
+│ DSA             :: 557+ Problems Solved (LeetCode + GeeksforGeeks) │
+│ Mission         :: Build scalable backend systems                  │
+╰────────────────────────────────────────────────────────────────────╯
 ```
 
 <sub><i>Designing systems that scale. Writing code built to last.</i></sub>
@@ -119,68 +119,64 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,java,python,c,html,css,nodejs,express,mongodb,mysql,postgres,react,nextjs,tailwind,aws,git,github,vscode,postman,npm&theme=dark" />
-
-<br/><br/>
-
 #### Languages
 
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=161B22)
-![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=22C55E&labelColor=161B22)
-![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=22C55E&labelColor=161B22)
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=22C55E&labelColor=161B22)
-![C](https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=22C55E&labelColor=161B22)
-![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=161B22)
-![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=22C55E&labelColor=161B22)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 <br/>
 
 #### Backend Core
 
-![Node.js](https://img.shields.io/badge/Node.js-16A34A?style=for-the-badge&logo=nodedotjs&logoColor=0D1117)
-![Express.js](https://img.shields.io/badge/Express.js-0D1117?style=for-the-badge&logo=express&logoColor=22C55E&labelColor=161B22)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20APIs-22C55E?style=for-the-badge&logo=postman&logoColor=0D1117)
-![Passport.js](https://img.shields.io/badge/Passport.js-16A34A?style=for-the-badge&logo=passport&logoColor=0D1117)
-![Mongoose](https://img.shields.io/badge/Mongoose-0D1117?style=for-the-badge&logo=mongoose&logoColor=22C55E&labelColor=161B22)
+![Passport.js](https://img.shields.io/badge/Passport.js-34E27A?style=for-the-badge&logo=passport&logoColor=black)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
 
 <br/>
 
 #### Databases
 
-![MongoDB](https://img.shields.io/badge/MongoDB-16A34A?style=for-the-badge&logo=mongodb&logoColor=0D1117)
-![MongoDB Atlas](https://img.shields.io/badge/MongoDB%20Atlas-0D1117?style=for-the-badge&logo=mongodb&logoColor=22C55E&labelColor=161B22)
-![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=22C55E&labelColor=161B22)
-![SQL](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=22C55E&labelColor=161B22)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MongoDB Atlas](https://img.shields.io/badge/MongoDB%20Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 <br/>
 
 #### Frontend
 
-![React](https://img.shields.io/badge/React.js-0D1117?style=for-the-badge&logo=react&logoColor=22C55E&labelColor=161B22)
-![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=E6EDF3&labelColor=161B22)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=22C55E&labelColor=161B22)
-![EJS](https://img.shields.io/badge/EJS-0D1117?style=for-the-badge&logo=ejs&logoColor=22C55E&labelColor=161B22)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=22C55E&labelColor=161B22)
+![React](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![EJS](https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 <br/>
 
 #### Cloud & Deployment
 
-![AWS](https://img.shields.io/badge/AWS%20Basics-0D1117?style=for-the-badge&logo=amazonwebservices&logoColor=22C55E&labelColor=161B22)
-![Render](https://img.shields.io/badge/Render-16A34A?style=for-the-badge&logo=render&logoColor=0D1117)
-![Vercel](https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge&logo=vercel&logoColor=E6EDF3&labelColor=161B22)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-0D1117?style=for-the-badge&logo=cloudinary&logoColor=22C55E&labelColor=161B22)
+![AWS](https://img.shields.io/badge/AWS%20Basics-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
 
 <br/>
 
 #### Tools & Infrastructure
 
-![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=22C55E&labelColor=161B22)
-![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=E6EDF3&labelColor=161B22)
-![VS Code](https://img.shields.io/badge/VS%20Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=22C55E&labelColor=161B22)
-![Postman](https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=postman&logoColor=22C55E&labelColor=161B22)
-![Thunder Client](https://img.shields.io/badge/Thunder_Client-0D1117?style=for-the-badge&logo=thunder-client&logoColor=22C55E&labelColor=161B22)
-![npm](https://img.shields.io/badge/npm-0D1117?style=for-the-badge&logo=npm&logoColor=22C55E&labelColor=161B22)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Thunder Client](https://img.shields.io/badge/Thunder_Client-7B2FBE?style=for-the-badge&logo=thunder-client&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
 </div>
 
@@ -190,7 +186,7 @@
 
 <br/>
 
-## 🤖 AI Engineering
+## 🤖 AI Systems & LLM Engineering
 
 <div align="center">
 
@@ -265,15 +261,27 @@ AWS Fundamentals
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:22C55E,100:10B981&height=120&section=header&text=%F0%9F%9A%80%20CodePulse%20AI&fontSize=42&fontColor=0D1117&fontAlignY=42&desc=AI%20Developer%20Intelligence%20Platform%20%E2%80%A2%20v1.0.0&descAlignY=68&descSize=16&descColor=0D1117&fontAlign=8&descAlign=8" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:22C55E,100:10B981&height=150" />
 
 <br/>
 
 <div align="center">
 
-![Status](https://img.shields.io/badge/●%20COMPLETED-10B981?style=for-the-badge&logoColor=0D1117)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=48&duration=2600&pause=1400&color=10B981&center=true&vCenter=true&width=700&lines=%F0%9F%9A%80+CODEPULSE+AI" />
+
+<sub><b>AI DEVELOPER INTELLIGENCE PLATFORM &nbsp;•&nbsp; PRODUCTION RELEASE &nbsp;•&nbsp; v1.0.0</b></sub>
+
+<br/><br/>
+
+![Status](https://img.shields.io/badge/🚀_PRODUCTION_READY-22C55E?style=for-the-badge&logoColor=0D1117)
 &nbsp;
 ![AI Powered](https://img.shields.io/badge/🤖%20AI--Powered-0D1117?style=for-the-badge&labelColor=161B22&color=10B981)
+
+<br/><br/>
+
+### 🚀 AI-Powered Developer Intelligence Platform
+
+Repository Analysis &nbsp;•&nbsp; AI Repository Chat &nbsp;•&nbsp; Engineering Score &nbsp;•&nbsp; Roadmap Generation &nbsp;•&nbsp; Architecture Visualization
 
 </div>
 
@@ -325,11 +333,17 @@ AWS Fundamentals
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:22C55E,100:16A34A&height=120&section=header&text=%F0%9F%8F%A0%20StayNest&fontSize=42&fontColor=0D1117&fontAlignY=42&desc=Full-Stack%20Rental%20Marketplace&descAlignY=68&descSize=16&descColor=0D1117&fontAlign=8&descAlign=8" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:22C55E,100:16A34A&height=110" />
 
 <br/>
 
 <div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=40&duration=2600&pause=1400&color=22C55E&center=true&vCenter=true&width=600&lines=%F0%9F%8F%A0+STAYNEST" />
+
+<sub><b>FULL-STACK RENTAL MARKETPLACE</b></sub>
+
+<br/><br/>
 
 ![Status](https://img.shields.io/badge/●%20COMPLETED-22C55E?style=for-the-badge&logoColor=0D1117)
 
@@ -393,9 +407,9 @@ AWS Fundamentals
 <td align="center" width="33%">
 <br/>
 
-### 🟢
+<h1>🏆</h1>
 
-## [230+](https://leetcode.com/u/Rajneesh_Kumar615/)
+# [230+](https://leetcode.com/u/Rajneesh_Kumar615/)
 <sub><b>LEETCODE</b></sub>
 <br/>
 <sub>Arrays · Trees · Graphs · DP · Sliding Window</sub>
@@ -404,9 +418,9 @@ AWS Fundamentals
 <td align="center" width="33%">
 <br/>
 
-### 🟢
+<h1>🏅</h1>
 
-## [327+](https://www.geeksforgeeks.org/user/uchihaitacipvy/)
+# [327+](https://www.geeksforgeeks.org/user/uchihaitacipvy/)
 <sub><b>GEEKSFORGEEKS</b></sub>
 <br/>
 <sub>Core DSA · OS · DBMS · Recursion · Linked Lists</sub>
@@ -415,9 +429,9 @@ AWS Fundamentals
 <td align="center" width="33%">
 <br/>
 
-### 🟢
+<h1>💚</h1>
 
-## 557+
+# 557+
 <sub><b>TOTAL SOLVED</b></sub>
 <br/>
 <sub>Consistent · Pattern-Driven · Multi-Platform</sub>
@@ -456,7 +470,7 @@ AWS Fundamentals
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=rajneeshkumar615&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8" />
+<img src="https://github-profile-trophy.vercel.app/?username=rajneeshkumar615&theme=flat&title_color=22C55E&icon_color=22C55E&text_color=E6EDF3&background=0D1117&no-frame=true&column=7&margin-w=8" />
 
 <br/><br/>
 
@@ -534,7 +548,7 @@ $ advanced-dsa
 
 <br/>
 
-<sub><i>"Designing systems that scale. Writing code your future self can still understand at 2 AM."</i></sub>
+<sub><i>"Build software that scales, APIs that last, and systems you can trust."</i></sub>
 
 <br/><br/>
 
