@@ -1,18 +1,18 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1033,100:0d1117&height=230&section=header&text=Rajneesh%20Kumar&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Backend%20Engineer%20%E2%80%A2%20AI%20Systems%20Builder%20%E2%80%A2%20Full%20Stack%20Developer&descAlignY=58&descSize=17&descColor=22c55e" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:14532d,100:0D1117&height=230&section=header&text=Rajneesh%20Kumar&fontSize=68&fontColor=E6EDF3&animation=fadeIn&fontAlignY=34&desc=Backend%20Engineer%20%E2%80%A2%20AI%20Systems%20Builder%20%E2%80%A2%20Full%20Stack%20Developer&descAlignY=58&descSize=17&descColor=22C55E" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2800&pause=1000&color=22C55E&center=true&vCenter=true&width=780&lines=Designing+backend+systems+with+Node.js+%26+Express;Designing+Production-Ready+REST+APIs;Creator+of+CodePulse+AI;500%2B+DSA+problems+across+LeetCode+%26+GeeksforGeeks;Backend+%C2%B7+AI+%C2%B7+Cloud+%C2%B7+System+Design;Open+to+Backend+Engineering+Roles" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=1000&color=22C55E&center=true&vCenter=true&width=800&lines=Designing+backend+systems+with+Node.js+%26+Express;Designing+Production-Ready+REST+APIs;Creator+of+CodePulse+AI;500%2B+DSA+problems+across+LeetCode+%26+GeeksforGeeks;Backend+%C2%B7+AI+%C2%B7+Cloud+%C2%B7+System+Design;Open+to+Backend+Engineering+Roles" />
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-rajneeshkumar615-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajneeshkumar615)
+[![GitHub](https://img.shields.io/badge/GitHub-rajneeshkumar615-0D1117?style=for-the-badge&logo=github&logoColor=E6EDF3&labelColor=161B22)](https://github.com/rajneeshkumar615)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-rajneesh--kumar615-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajneesh-kumar615)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-rajneesh--kumar615-22C55E?style=for-the-badge&logo=linkedin&logoColor=0D1117)](https://www.linkedin.com/in/rajneesh-kumar615)
 &nbsp;
-[![Gmail](https://img.shields.io/badge/Email-kumarajneesh008%40gmail.com-22c55e?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kumarajneesh008@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-kumarajneesh008%40gmail.com-16A34A?style=for-the-badge&logo=gmail&logoColor=E6EDF3)](mailto:kumarajneesh008@gmail.com)
 
 <br/>
 
@@ -22,56 +22,72 @@
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:22c55e,100:15803d&height=55&section=header&text=Engineering%20Metrics&fontSize=22&fontColor=ffffff&fontAlignY=60&fontAlign=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:22C55E,100:16A34A&height=4" />
 
 <br/>
 
-<div align="center">
+## 📊 Engineering Metrics
 
+<div align="center">
 <table>
 <tr>
 <td align="center" width="25%">
+<br/>
 
-### 🟢
+# 🧠
+
 ### 500+
-<sub><b>DSA Problems Solved</b></sub>
-<br/><sub>LeetCode &nbsp;·&nbsp; GeeksforGeeks</sub>
-
+<sub><b>DSA PROBLEMS SOLVED</b></sub>
+<br/>
+<sub>LeetCode &nbsp;·&nbsp; GeeksforGeeks</sub>
+<br/><br/>
 </td>
 <td align="center" width="25%">
+<br/>
 
-### 🔵
+# ⚙️
+
 ### Backend APIs
-<sub><b>RESTful &amp; Auth-Secured</b></sub>
-<br/><sub>Node.js &nbsp;·&nbsp; Express &nbsp;·&nbsp; MongoDB</sub>
-
+<sub><b>RESTFUL &amp; AUTH-SECURED</b></sub>
+<br/>
+<sub>Node.js &nbsp;·&nbsp; Express &nbsp;·&nbsp; MongoDB</sub>
+<br/><br/>
 </td>
 <td align="center" width="25%">
+<br/>
 
-### 🟣
+# 🤖
+
 ### AI Platform
-<sub><b>CodePulse AI</b></sub>
-<br/><sub>Gemini &nbsp;·&nbsp; RAG &nbsp;·&nbsp; Repo Intelligence</sub>
-
+<sub><b>CODEPULSE AI · SHIPPED</b></sub>
+<br/>
+<sub>Gemini &nbsp;·&nbsp; RAG &nbsp;·&nbsp; Repo Intelligence</sub>
+<br/><br/>
 </td>
 <td align="center" width="25%">
+<br/>
 
-### 🟡
+# 🚀
+
 ### Production Projects
-<sub><b>2 Shipped &amp; Documented</b></sub>
-<br/><sub>CodePulse AI &nbsp;·&nbsp; StayNest</sub>
-
+<sub><b>2 SHIPPED &amp; DOCUMENTED</b></sub>
+<br/>
+<sub>CodePulse AI &nbsp;·&nbsp; StayNest</sub>
+<br/><br/>
 </td>
 </tr>
 </table>
-
 </div>
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:06b6d4,100:0e7490&height=55&section=header&text=Engineer%20Profile&fontSize=22&fontColor=ffffff&fontAlignY=60&fontAlign=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:22C55E,100:16A34A&height=4" />
 
 <br/>
+
+## ⚙️ Engineer Profile
+
+<div align="center">
 
 ```text
 ╭──────────────────────────────────────────────────────────────╮
@@ -89,162 +105,235 @@
 ╰──────────────────────────────────────────────────────────────╯
 ```
 
-<div align="center"><sub><i>Designing systems that scale. Writing code built to last.</i></sub></div>
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:22c55e,100:15803d&height=55&section=header&text=Skill%20Proficiency&fontSize=22&fontColor=ffffff&fontAlignY=60&fontAlign=50" />
-
-<br/>
-
-```text
-$ dsa-and-problem-solving
-████████████████████░░░░  85%
-
-$ rest-api-design
-████████████████████░░░░  83%
-
-$ nodejs-and-express
-████████████████████░░░░  82%
-
-$ mongodb-and-mongoose
-███████████████████░░░░░  78%
-
-$ react-and-nextjs
-███████████████░░░░░░░░░  65%
-
-$ system-design-basics
-██████████████░░░░░░░░░░  58%
-
-$ aws-fundamentals
-█████████████░░░░░░░░░░░  52%
-```
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:a855f7,100:6d28d9&height=55&section=header&text=Technical%20Arsenal&fontSize=22&fontColor=ffffff&fontAlignY=60&fontAlign=50" />
-
-<br/>
-
-<div align="center">
-
-#### 🔴 Languages
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-<br/><br/>
-
-#### 🟢 Backend Engineering
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20APIs-22c55e?style=for-the-badge&logo=postman&logoColor=white)
-![Passport.js](https://img.shields.io/badge/Passport.js-34E27A?style=for-the-badge&logo=passport&logoColor=black)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
-
-<br/><br/>
-
-#### 🔵 AI Engineering
-
-![Gemini AI](https://img.shields.io/badge/Gemini_AI-06b6d4?style=for-the-badge&logo=googlegemini&logoColor=white)
-![OpenAI SDK](https://img.shields.io/badge/OpenAI_SDK-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-<br/><br/>
-
-#### 🟪 Databases
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-<br/><br/>
-
-#### 🟣 Frontend
-
-![React](https://img.shields.io/badge/React.js-a855f7?style=for-the-badge&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-a855f7?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![EJS](https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-<br/><br/>
-
-#### 🟡 Cloud & Deployment
-
-![AWS](https://img.shields.io/badge/AWS%20Basics-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
-![MongoDB Atlas](https://img.shields.io/badge/MongoDB%20Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-<br/><br/>
-
-#### 🟠 Tools & Infrastructure
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Thunder Client](https://img.shields.io/badge/Thunder_Client-7B2FBE?style=for-the-badge&logo=thunder-client&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+<sub><i>Designing systems that scale. Writing code built to last.</i></sub>
 
 </div>
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:a855f7,100:3b82f6&height=55&section=header&text=Featured%20Engineering&fontSize=22&fontColor=ffffff&fontAlignY=60&fontAlign=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:22C55E,100:16A34A&height=4" />
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:a855f7,100:06b6d4&height=110&section=header&text=%F0%9F%9A%80%20CodePulse%20AI&fontSize=38&fontColor=ffffff&fontAlignY=44&desc=v1.0.0%20%E2%80%A2%20AI%20Developer%20Intelligence%20Platform&descAlignY=68&descSize=15&descColor=e9d5ff&fontAlign=8&descAlign=8" />
+## 🖥️ Backend Engineering Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,ts,java,python,c,html,css,nodejs,express,mongodb,mysql,postgres,react,nextjs,tailwind,aws,git,github,vscode,postman,npm&theme=dark" />
+
+<br/><br/>
+
+#### Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=161B22)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=22C55E&labelColor=161B22)
+![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=22C55E&labelColor=161B22)
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=22C55E&labelColor=161B22)
+![C](https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=22C55E&labelColor=161B22)
+![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=161B22)
+![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=22C55E&labelColor=161B22)
 
 <br/>
 
-![AI-Powered](https://img.shields.io/badge/🤖%20AI--Powered-06b6d4?style=for-the-badge&logoColor=white)
+#### Backend Core
+
+![Node.js](https://img.shields.io/badge/Node.js-16A34A?style=for-the-badge&logo=nodedotjs&logoColor=0D1117)
+![Express.js](https://img.shields.io/badge/Express.js-0D1117?style=for-the-badge&logo=express&logoColor=22C55E&labelColor=161B22)
+![REST API](https://img.shields.io/badge/REST%20APIs-22C55E?style=for-the-badge&logo=postman&logoColor=0D1117)
+![Passport.js](https://img.shields.io/badge/Passport.js-16A34A?style=for-the-badge&logo=passport&logoColor=0D1117)
+![Mongoose](https://img.shields.io/badge/Mongoose-0D1117?style=for-the-badge&logo=mongoose&logoColor=22C55E&labelColor=161B22)
+
+<br/>
+
+#### Databases
+
+![MongoDB](https://img.shields.io/badge/MongoDB-16A34A?style=for-the-badge&logo=mongodb&logoColor=0D1117)
+![MongoDB Atlas](https://img.shields.io/badge/MongoDB%20Atlas-0D1117?style=for-the-badge&logo=mongodb&logoColor=22C55E&labelColor=161B22)
+![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=22C55E&labelColor=161B22)
+![SQL](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=22C55E&labelColor=161B22)
+
+<br/>
+
+#### Frontend
+
+![React](https://img.shields.io/badge/React.js-0D1117?style=for-the-badge&logo=react&logoColor=22C55E&labelColor=161B22)
+![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=E6EDF3&labelColor=161B22)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=22C55E&labelColor=161B22)
+![EJS](https://img.shields.io/badge/EJS-0D1117?style=for-the-badge&logo=ejs&logoColor=22C55E&labelColor=161B22)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=22C55E&labelColor=161B22)
+
+<br/>
+
+#### Cloud & Deployment
+
+![AWS](https://img.shields.io/badge/AWS%20Basics-0D1117?style=for-the-badge&logo=amazonwebservices&logoColor=22C55E&labelColor=161B22)
+![Render](https://img.shields.io/badge/Render-16A34A?style=for-the-badge&logo=render&logoColor=0D1117)
+![Vercel](https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge&logo=vercel&logoColor=E6EDF3&labelColor=161B22)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-0D1117?style=for-the-badge&logo=cloudinary&logoColor=22C55E&labelColor=161B22)
+
+<br/>
+
+#### Tools & Infrastructure
+
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=22C55E&labelColor=161B22)
+![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=E6EDF3&labelColor=161B22)
+![VS Code](https://img.shields.io/badge/VS%20Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=22C55E&labelColor=161B22)
+![Postman](https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=postman&logoColor=22C55E&labelColor=161B22)
+![Thunder Client](https://img.shields.io/badge/Thunder_Client-0D1117?style=for-the-badge&logo=thunder-client&logoColor=22C55E&labelColor=161B22)
+![npm](https://img.shields.io/badge/npm-0D1117?style=for-the-badge&logo=npm&logoColor=22C55E&labelColor=161B22)
+
+</div>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:22C55E,100:16A34A&height=4" />
+
+<br/>
+
+## 🤖 AI Engineering
+
+<div align="center">
+
+<sub>Applying LLMs to real engineering problems — not just chat wrappers.</sub>
+
+<br/><br/>
+
+![Gemini AI](https://img.shields.io/badge/Gemini_AI-10B981?style=for-the-badge&logo=googlegemini&logoColor=0D1117)
+![OpenAI SDK](https://img.shields.io/badge/OpenAI_SDK-0D1117?style=for-the-badge&logo=openai&logoColor=10B981&labelColor=161B22)
+![Prisma](https://img.shields.io/badge/Prisma-0D1117?style=for-the-badge&logo=prisma&logoColor=10B981&labelColor=161B22)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=10B981&labelColor=161B22)
+
+</div>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:22C55E,100:16A34A&height=4" />
+
+<br/>
+
+## 🎯 Core Expertise
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+**🟢 Advanced**
+<br/>
+DSA &amp; Algorithms
+<br/>
+REST API Design
+<br/>
+Node.js &amp; Express
+
+</td>
+<td align="center" width="33%">
+
+**🟢 Advanced**
+<br/>
+MongoDB &amp; Mongoose
+<br/>
+Backend Architecture
+<br/>
+Auth &amp; Session Design
+
+</td>
+<td align="center" width="33%">
+
+**🟡 Growing**
+<br/>
+React &amp; Next.js
+<br/>
+System Design
+<br/>
+AWS Fundamentals
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:22C55E,100:16A34A&height=4" />
+
+<br/>
+
+## 🚀 Featured Engineering
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:22C55E,100:10B981&height=120&section=header&text=%F0%9F%9A%80%20CodePulse%20AI&fontSize=42&fontColor=0D1117&fontAlignY=42&desc=AI%20Developer%20Intelligence%20Platform%20%E2%80%A2%20v1.0.0&descAlignY=68&descSize=16&descColor=0D1117&fontAlign=8&descAlign=8" />
+
+<br/>
+
+<div align="center">
+
+![Status](https://img.shields.io/badge/●%20COMPLETED-10B981?style=for-the-badge&logoColor=0D1117)
+&nbsp;
+![AI Powered](https://img.shields.io/badge/🤖%20AI--Powered-0D1117?style=for-the-badge&labelColor=161B22&color=10B981)
+
+</div>
 
 <br/>
 
 > **Problem:** Understanding a codebase's health, architecture, and engineering quality at a glance is slow and manual — especially for recruiters, reviewers, and new contributors evaluating a repository.
 >
-> **Solution:** An AI-powered platform that ingests any GitHub repository and produces a full engineering intelligence report — architecture visualization, an engineering health score, an AI-generated roadmap, and a conversational interface to query the codebase directly.
+> **Solution:** A completed AI-powered platform that ingests any GitHub repository and produces a full engineering intelligence report — architecture visualization, an engineering health score, an AI-generated roadmap, and a conversational interface to query the codebase directly.
 
 **Core Capabilities**
 
-✓ AI-powered repository analysis (Gemini pipeline parsing structure, history, and patterns)
-✓ Composite engineering health score
-✓ Conversational repository chat (RAG-style context injection)
-✓ Direct GitHub repo import — no manual upload
-✓ Auto-generated AI improvement roadmap
-✓ Interactive architecture visualization
-✓ One-click PDF report export
-✓ PostgreSQL + Prisma data layer for structured persistence
+<div align="center">
+
+![Repository Analysis](https://img.shields.io/badge/-Repository%20Analysis-0D1117?style=flat-square&labelColor=161B22&color=10B981)
+![Engineering Score](https://img.shields.io/badge/-Engineering%20Health%20Score-0D1117?style=flat-square&labelColor=161B22&color=10B981)
+![Repository Chat](https://img.shields.io/badge/-Repository%20Chat%20(RAG)-0D1117?style=flat-square&labelColor=161B22&color=10B981)
+![GitHub Import](https://img.shields.io/badge/-GitHub%20Import-0D1117?style=flat-square&labelColor=161B22&color=10B981)
+![AI Roadmap](https://img.shields.io/badge/-AI%20Roadmap-0D1117?style=flat-square&labelColor=161B22&color=10B981)
+![Architecture Visualization](https://img.shields.io/badge/-Architecture%20Visualization-0D1117?style=flat-square&labelColor=161B22&color=10B981)
+![PDF Export](https://img.shields.io/badge/-PDF%20Export-0D1117?style=flat-square&labelColor=161B22&color=10B981)
+
+</div>
+
+| Layer | Design Decision & Rationale |
+|---|---|
+| AI Repository Analysis | Gemini-powered pipeline that parses repo structure, commit history, and code patterns into a deterministic engineering report |
+| Engineering Score | Composite health metric derived from code quality, activity, structure, and best-practice signals |
+| Repository Chat | Conversational interface (RAG-style context injection) to ask natural-language questions about any analyzed repo |
+| GitHub Import | Direct GitHub repo ingestion via API — no manual upload needed |
+| AI Roadmap | Auto-generated improvement roadmap based on detected architectural and engineering gaps |
+| Architecture Visualization | Interactive diagrams mapping module structure and dependencies |
+| PDF Export | One-click export of the full analysis report for sharing or portfolio use |
+| Data Layer | PostgreSQL + Prisma ORM for structured, type-safe persistence of analyses and history |
 
 **Stack**
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Gemini AI](https://img.shields.io/badge/Gemini_AI-06b6d4?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=E6EDF3&labelColor=161B22)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=10B981&labelColor=161B22)
+![Express.js](https://img.shields.io/badge/Express.js-0D1117?style=for-the-badge&logo=express&logoColor=10B981&labelColor=161B22)
+![Prisma](https://img.shields.io/badge/Prisma-0D1117?style=for-the-badge&logo=prisma&logoColor=10B981&labelColor=161B22)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=10B981&labelColor=161B22)
+![Gemini AI](https://img.shields.io/badge/Gemini_AI-10B981?style=for-the-badge&logo=googlegemini&logoColor=0D1117)
 
 <div align="center">
 
-[![View Repository](https://img.shields.io/badge/View%20Repository-a855f7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajneeshkumar615/codepulse-ai)
+[![View Repository](https://img.shields.io/badge/View%20Repository-10B981?style=for-the-badge&logo=github&logoColor=0D1117)](https://github.com/rajneeshkumar615/codepulse-ai)
 
 </div>
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:22c55e,100:0e7490&height=110&section=header&text=%F0%9F%8F%A0%20StayNest&fontSize=38&fontColor=ffffff&fontAlignY=48&desc=Full-Stack%20Rental%20Marketplace&descAlignY=75&descSize=15&descColor=d1fae5&fontAlign=8&descAlign=8" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:22C55E,100:16A34A&height=120&section=header&text=%F0%9F%8F%A0%20StayNest&fontSize=42&fontColor=0D1117&fontAlignY=42&desc=Full-Stack%20Rental%20Marketplace&descAlignY=68&descSize=16&descColor=0D1117&fontAlign=8&descAlign=8" />
+
+<br/>
+
+<div align="center">
+
+![Status](https://img.shields.io/badge/●%20COMPLETED-22C55E?style=for-the-badge&logoColor=0D1117)
+
+</div>
 
 <br/>
 
@@ -254,43 +343,88 @@ $ aws-fundamentals
 
 **Core Capabilities**
 
-✓ Passport.js local strategy with session-based, role-based auth
-✓ Multer → Cloudinary image pipeline (multi-image upload, offloaded storage)
-✓ Normalized data modeling: `User → Listing → Review`
-✓ Full RESTful CRUD for listings and reviews
-✓ Express-session + connect-flash for stateless UX feedback
-✓ Input validation & authorization middleware guarding every mutation
+<div align="center">
+
+![Auth & Sessions](https://img.shields.io/badge/-Auth%20%26%20Sessions-0D1117?style=flat-square&labelColor=161B22&color=22C55E)
+![Cloud Image Pipeline](https://img.shields.io/badge/-Cloud%20Image%20Pipeline-0D1117?style=flat-square&labelColor=161B22&color=22C55E)
+![Normalized Data Models](https://img.shields.io/badge/-Normalized%20Data%20Models-0D1117?style=flat-square&labelColor=161B22&color=22C55E)
+![RESTful CRUD](https://img.shields.io/badge/-RESTful%20CRUD-0D1117?style=flat-square&labelColor=161B22&color=22C55E)
+![Flash Messaging](https://img.shields.io/badge/-Flash%20Messaging-0D1117?style=flat-square&labelColor=161B22&color=22C55E)
+![Authorization Middleware](https://img.shields.io/badge/-Authorization%20Middleware-0D1117?style=flat-square&labelColor=161B22&color=22C55E)
+
+</div>
+
+| Layer | Design Decision & Rationale |
+|---|---|
+| Auth & Authorization | Passport.js local strategy · session-based auth · role-based middleware — users can only mutate their own resources |
+| Image Pipeline | Multer → Cloudinary: multi-image upload with cloud storage, offloading binary data from the app server entirely |
+| Data Modeling | MongoDB + Mongoose · normalized references: `User → Listing → Review` — avoids document bloat, enables clean population queries |
+| API Design | RESTful architecture · full CRUD for listings and reviews · consistent response structure |
+| UX & Feedback | Express-session + connect-flash — stateless feedback without client-side state management overhead |
+| Security | Input validation · authorization middleware · sanitized user inputs — prevents unauthorized data mutation |
 
 **Stack**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![EJS](https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black)
-![Passport.js](https://img.shields.io/badge/Passport.js-34E27A?style=for-the-badge&logo=passport&logoColor=black)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-16A34A?style=for-the-badge&logo=nodedotjs&logoColor=0D1117)
+![Express.js](https://img.shields.io/badge/Express.js-0D1117?style=for-the-badge&logo=express&logoColor=22C55E&labelColor=161B22)
+![MongoDB](https://img.shields.io/badge/MongoDB-16A34A?style=for-the-badge&logo=mongodb&logoColor=0D1117)
+![EJS](https://img.shields.io/badge/EJS-0D1117?style=for-the-badge&logo=ejs&logoColor=22C55E&labelColor=161B22)
+![Passport.js](https://img.shields.io/badge/Passport.js-0D1117?style=for-the-badge&logo=passport&logoColor=22C55E&labelColor=161B22)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-0D1117?style=for-the-badge&logo=cloudinary&logoColor=22C55E&labelColor=161B22)
 
 <div align="center">
 
-[![View Repository](https://img.shields.io/badge/View%20Repository-22c55e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajneeshkumar615/StayNest)
+[![View Repository](https://img.shields.io/badge/View%20Repository-22C55E?style=for-the-badge&logo=github&logoColor=0D1117)](https://github.com/rajneeshkumar615/StayNest)
 
 </div>
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:22c55e,100:15803d&height=55&section=header&text=Competitive%20Programming&fontSize=22&fontColor=ffffff&fontAlignY=60&fontAlign=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:22C55E,100:16A34A&height=4" />
 
 <br/>
+
+## 🧩 Problem Solving
 
 <div align="center">
 
-| Platform | Solved | Core Focus |
-|:---:|:---:|:---:|
-| [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/Rajneesh_Kumar615/) | ![230+](https://img.shields.io/badge/🟢%20230+-22c55e?style=flat-square) | Arrays · Trees · Graphs · DP · Sliding Window |
-| [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/uchihaitacipvy/) | ![327+](https://img.shields.io/badge/🟢%20327+-22c55e?style=flat-square) | Core DSA · OS · DBMS · Recursion · Linked Lists |
-| **Total** | ![557+](https://img.shields.io/badge/🟢%20557+-16a34a?style=flat-square) | Consistent · Pattern-Driven · Multi-Platform |
-
+<table>
+<tr>
+<td align="center" width="33%">
 <br/>
+
+### 🟢
+
+## [230+](https://leetcode.com/u/Rajneesh_Kumar615/)
+<sub><b>LEETCODE</b></sub>
+<br/>
+<sub>Arrays · Trees · Graphs · DP · Sliding Window</sub>
+<br/><br/>
+</td>
+<td align="center" width="33%">
+<br/>
+
+### 🟢
+
+## [327+](https://www.geeksforgeeks.org/user/uchihaitacipvy/)
+<sub><b>GEEKSFORGEEKS</b></sub>
+<br/>
+<sub>Core DSA · OS · DBMS · Recursion · Linked Lists</sub>
+<br/><br/>
+</td>
+<td align="center" width="33%">
+<br/>
+
+### 🟢
+
+## 557+
+<sub><b>TOTAL SOLVED</b></sub>
+<br/>
+<sub>Consistent · Pattern-Driven · Multi-Platform</sub>
+<br/><br/>
+</td>
+</tr>
+</table>
 
 <sub><i>Approach: identify the pattern first, then write the code. Every problem is a lesson in trade-offs.</i></sub>
 
@@ -298,41 +432,45 @@ $ aws-fundamentals
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:3b82f6,100:1d4ed8&height=55&section=header&text=GitHub%20Stats&fontSize=22&fontColor=ffffff&fontAlignY=60&fontAlign=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:22C55E,100:16A34A&height=4" />
 
 <br/>
 
+## 📈 GitHub Stats
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rajneeshkumar615&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3b82f6&icon_color=3b82f6&text_color=c9d1d9&include_all_commits=true&count_private=true" height="175" />
+<img src="https://github-readme-stats.vercel.app/api?username=rajneeshkumar615&show_icons=true&hide_border=true&bg_color=0D1117&title_color=22C55E&icon_color=16A34A&text_color=E6EDF3&include_all_commits=true&count_private=true" height="175" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajneeshkumar615&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3b82f6&text_color=c9d1d9" height="175" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajneeshkumar615&layout=compact&hide_border=true&bg_color=0D1117&title_color=22C55E&text_color=E6EDF3" height="175" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=rajneeshkumar615&theme=tokyonight&hide_border=true&background=0d1117&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6" />
+<img src="https://streak-stats.demolab.com?user=rajneeshkumar615&hide_border=true&background=0D1117&ring=22C55E&fire=22C55E&currStreakLabel=22C55E&sideLabels=E6EDF3&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=E6EDF3" />
 
 <br/><br/>
 
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=rajneeshkumar615&bg_color=0d1117&color=3b82f6&line=3b82f6&point=ffffff&area=true&hide_border=true" />
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=rajneeshkumar615&bg_color=0D1117&color=22C55E&line=22C55E&point=E6EDF3&area=true&hide_border=true" />
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=rajneeshkumar615&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" />
+<img src="https://github-profile-trophy.vercel.app/?username=rajneeshkumar615&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8" />
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajneeshkumar615&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajneeshkumar615&theme=github_dark" />
 
 </div>
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:22c55e,100:15803d&height=55&section=header&text=Current%20Focus&fontSize=22&fontColor=ffffff&fontAlignY=60&fontAlign=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:22C55E,100:16A34A&height=4" />
 
 <br/>
+
+## 🎯 Current Focus
 
 ```text
 $ backend-systems
@@ -350,9 +488,11 @@ $ advanced-dsa
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:06b6d4,100:0e7490&height=55&section=header&text=Build%20Log&fontSize=22&fontColor=ffffff&fontAlignY=60&fontAlign=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:22C55E,100:16A34A&height=4" />
 
 <br/>
+
+## 📓 Build Log
 
 **2025 — BCA Final Year**
 - Repositioned toward backend-first engineering
@@ -370,9 +510,11 @@ $ advanced-dsa
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:a855f7,100:6d28d9&height=55&section=header&text=Contribution%20Activity&fontSize=22&fontColor=ffffff&fontAlignY=60&fontAlign=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:22C55E,100:16A34A&height=4" />
 
 <br/>
+
+## 🐍 Contribution Activity
 
 <div align="center">
 
@@ -388,18 +530,22 @@ $ advanced-dsa
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:14532d,100:0d1117&height=190&section=header&text=Let's%20Build%20Something&fontSize=34&fontColor=ffffff&fontAlignY=38&desc=Open%20to%20SDE%20internships%20and%20backend%20%2F%20full-stack%20roles&descAlignY=62&descSize=15&descColor=86efac" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:14532d,100:0D1117&height=190&section=header&text=Let's%20Build%20Something&fontSize=34&fontColor=E6EDF3&fontAlignY=38&desc=Open%20to%20SDE%20internships%20and%20backend%20%2F%20full-stack%20roles&descAlignY=62&descSize=15&descColor=22C55E" />
 
 <br/>
 
-![Open to Work](https://img.shields.io/badge/●%20OPEN%20TO%20WORK-22c55e?style=for-the-badge&logoColor=white)
+<sub><i>"Designing systems that scale. Writing code your future self can still understand at 2 AM."</i></sub>
 
 <br/><br/>
 
-[![Email](https://img.shields.io/badge/Email-22c55e?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kumarajneesh008@gmail.com)
+![Open to Work](https://img.shields.io/badge/●%20OPEN%20TO%20WORK-22C55E?style=for-the-badge&logoColor=0D1117)
+
+<br/><br/>
+
+[![Email](https://img.shields.io/badge/Email-16A34A?style=for-the-badge&logo=gmail&logoColor=0D1117)](mailto:kumarajneesh008@gmail.com)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajneesh-kumar615)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-22C55E?style=for-the-badge&logo=linkedin&logoColor=0D1117)](https://www.linkedin.com/in/rajneesh-kumar615)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajneeshkumar615)
+[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=E6EDF3&labelColor=161B22)](https://github.com/rajneeshkumar615)
 
 </div>
